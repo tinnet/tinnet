@@ -1,7 +1,7 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=tinnet&show_icons=true&count_private=true&hide_border=true" width="50%"/>
+<img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tinnet&theme=github" width="50%"/>
 <h3 class="mt-n3">Hi there 👋</h3>
 
-I'm Martin, an experienced Software Developer and amateur photographer.
+I'm Martin, an experienced Software Developer 🖥️ and amateur photographer 📷.
 
 Always looking to get better at the tools I know or learn about new ones and how to use them.
 
