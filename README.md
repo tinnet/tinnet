@@ -1,6 +1,10 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=tinnet&show_icons=true&count_private=true&hide_border=true" width="50%"/>
 <h3 class="mt-n3">Hi there 👋</h3>
 
+I'm Martin, an experienced Software Developer and amateur photographer.
+
+Always looking to get better at the tools I know or learn about new ones and how to use them.
+
 #### 🔨 Latest Pull Requests I published
 
 - [Allow users to set their own accent color by passing in a color object](https://github.com/mintyfrankie/brilliant-CV-Submodule/pull/10) on [mintyfrankie/brilliant-CV-Submodule](https://github.com/mintyfrankie/brilliant-CV-Submodule) (1 month ago)
@@ -14,8 +18,8 @@
 - [tinnet/dotfiles](https://github.com/tinnet/dotfiles)
 - [tinnet/docker-nginx-s3proxy](https://github.com/tinnet/docker-nginx-s3proxy) - nginx based proxy for s3 - docker
 - [tinnet/java-uuid-validation-benchmark](https://github.com/tinnet/java-uuid-validation-benchmark) - microbenchmarking UUID validation regexes in Java
-- [tinnet/dotfilesOLD](https://github.com/tinnet/dotfilesOLD) - All my config files (aka dotfiles)
 - [tinnet/jzmq-cookbook](https://github.com/tinnet/jzmq-cookbook) - chef cookbook to build zeromq java bindings (jzmq)
+- [tinnet/getheaders](https://github.com/tinnet/getheaders) - webapp to get your http headers
 
 #### ⭐ Recent Stars
 
