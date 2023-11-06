@@ -23,8 +23,8 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
-- [stax76/awesome-mpv](https://github.com/stax76/awesome-mpv) - A curated list of awesome mpv resources. (today)
-- [megalithic/dotfiles](https://github.com/megalithic/dotfiles) - 🗿  dotfilery, configuration, environment settings, automation, etc. 🛖  (today)
-- [anishathalye/periscope](https://github.com/anishathalye/periscope) - Periscope gives you &#34;duplicate vision&#34; to help you organize and de-duplicate your files without losing data 🔭 (1 day ago)
-- [anishathalye/dotbot](https://github.com/anishathalye/dotbot) - A tool that bootstraps your dotfiles ⚡️ (1 day ago)
-- [kentcdodds/react-fundamentals](https://github.com/kentcdodds/react-fundamentals) - Material for my React Fundamentals Workshop (3 days ago)
+- [stax76/awesome-mpv](https://github.com/stax76/awesome-mpv) - A curated list of awesome mpv resources. (1 day ago)
+- [megalithic/dotfiles](https://github.com/megalithic/dotfiles) - 🗿  dotfilery, configuration, environment settings, automation, etc. 🛖  (1 day ago)
+- [anishathalye/periscope](https://github.com/anishathalye/periscope) - Periscope gives you &#34;duplicate vision&#34; to help you organize and de-duplicate your files without losing data 🔭 (2 days ago)
+- [anishathalye/dotbot](https://github.com/anishathalye/dotbot) - A tool that bootstraps your dotfiles ⚡️ (2 days ago)
+- [kentcdodds/react-fundamentals](https://github.com/kentcdodds/react-fundamentals) - Material for my React Fundamentals Workshop (4 days ago)
