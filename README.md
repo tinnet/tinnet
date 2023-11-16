@@ -23,7 +23,7 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
-- [jstachio/jstachio](https://github.com/jstachio/jstachio) - Java type safe statically compiled mustache (3 days ago)
+- [jstachio/jstachio](https://github.com/jstachio/jstachio) - Java type safe statically compiled mustache (4 days ago)
 - [migueldeicaza/SwiftGodot](https://github.com/migueldeicaza/SwiftGodot) - New Godot bindings for Swift (1 week ago)
 - [stax76/awesome-mpv](https://github.com/stax76/awesome-mpv) - A curated list of awesome mpv resources. (1 week ago)
 - [megalithic/dotfiles](https://github.com/megalithic/dotfiles) - 🗿  dotfilery, configuration, environment settings, automation, etc. 🛖  (1 week ago)
