@@ -9,7 +9,7 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 - [Allow users to set their own accent color by passing in a color object](https://github.com/mintyfrankie/brilliant-CV-Submodule/pull/10) on [mintyfrankie/brilliant-CV-Submodule](https://github.com/mintyfrankie/brilliant-CV-Submodule) (2 months ago)
 - [[RFC] Don&#39;t replace proxy with random port in AddOrReplace](https://github.com/Shopify/toxiproxy/pull/356) on [Shopify/toxiproxy](https://github.com/Shopify/toxiproxy) (2 years ago)
-- [fix: add two more patterns to change cfgMap name during freeze](https://github.com/shyiko/kubetpl/pull/12) on [shyiko/kubetpl](https://github.com/shyiko/kubetpl) (4 years ago)
+- [fix: add two more patterns to change cfgMap name during freeze](https://github.com/shyiko/kubetpl/pull/12) on [shyiko/kubetpl](https://github.com/shyiko/kubetpl) (5 years ago)
 - [Add node 5.6 and 5.7 presets](https://github.com/michaelcontento/babel-preset-modern-node/pull/35) on [michaelcontento/babel-preset-modern-node](https://github.com/michaelcontento/babel-preset-modern-node) (7 years ago)
 - [replace call to print with logging.debug](https://github.com/jvanasco/pyramid_debugtoolbar_dogpile/pull/2) on [jvanasco/pyramid_debugtoolbar_dogpile](https://github.com/jvanasco/pyramid_debugtoolbar_dogpile) (8 years ago)
 
@@ -23,7 +23,7 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
-- [nod-ai/SHARK](https://github.com/nod-ai/SHARK) - SHARK - High Performance Machine Learning Distribution (2 days ago)
+- [nod-ai/SHARK](https://github.com/nod-ai/SHARK) - SHARK - High Performance Machine Learning Distribution (3 days ago)
 - [jstachio/jstachio](https://github.com/jstachio/jstachio) - Java type safe statically compiled mustache (1 week ago)
 - [migueldeicaza/SwiftGodot](https://github.com/migueldeicaza/SwiftGodot) - New Godot bindings for Swift (2 weeks ago)
 - [stax76/awesome-mpv](https://github.com/stax76/awesome-mpv) - A curated list of awesome mpv resources. (2 weeks ago)
