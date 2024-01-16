@@ -23,8 +23,8 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
-- [instancio/instancio](https://github.com/instancio/instancio) - A library that creates fully populated objects for your unit tests. (3 days ago)
-- [mitsuhiko/rye](https://github.com/mitsuhiko/rye) - An Experimental Package Management Solution for Python (6 days ago)
-- [tedivm/paracelsus](https://github.com/tedivm/paracelsus) - Visualize SQLAlchemy Databases using Mermaid or Dot Diagrams. (6 days ago)
+- [instancio/instancio](https://github.com/instancio/instancio) - A library that creates fully populated objects for your unit tests. (4 days ago)
+- [mitsuhiko/rye](https://github.com/mitsuhiko/rye) - An Experimental Package Management Solution for Python (1 week ago)
+- [tedivm/paracelsus](https://github.com/tedivm/paracelsus) - Visualize SQLAlchemy Databases using Mermaid or Dot Diagrams. (1 week ago)
 - [paradedb/paradedb](https://github.com/paradedb/paradedb) - PostgreSQL for Search (1 week ago)
 - [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file. (4 weeks ago)
