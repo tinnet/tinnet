@@ -23,8 +23,8 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
+- [qdm12/ddns-updater](https://github.com/qdm12/ddns-updater) - Container to update DNS records periodically with WebUI for many DNS providers (today)
 - [krateng/maloja](https://github.com/krateng/maloja) - Self-hosted music scrobble database to create personal listening statistics and charts (1 day ago)
 - [FoxxMD/multi-scrobbler](https://github.com/FoxxMD/multi-scrobbler) - Scrobble plays from multiple sources to multiple clients (1 day ago)
 - [instancio/instancio](https://github.com/instancio/instancio) - A library that creates fully populated objects for your unit tests. (1 week ago)
 - [mitsuhiko/rye](https://github.com/mitsuhiko/rye) - An Experimental Package Management Solution for Python (2 weeks ago)
-- [tedivm/paracelsus](https://github.com/tedivm/paracelsus) - Visualize SQLAlchemy Databases using Mermaid or Dot Diagrams. (2 weeks ago)
