@@ -23,8 +23,8 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
-- [emmett-framework/granian](https://github.com/emmett-framework/granian) - A Rust HTTP server for Python applications (1 day ago)
-- [volfpeter/fasthx](https://github.com/volfpeter/fasthx) - FastAPI and HTMX, the right way. (1 day ago)
-- [qdm12/ddns-updater](https://github.com/qdm12/ddns-updater) - Container to update DNS records periodically with WebUI for many DNS providers (4 days ago)
-- [krateng/maloja](https://github.com/krateng/maloja) - Self-hosted music scrobble database to create personal listening statistics and charts (5 days ago)
-- [FoxxMD/multi-scrobbler](https://github.com/FoxxMD/multi-scrobbler) - Scrobble plays from multiple sources to multiple clients (5 days ago)
+- [emmett-framework/granian](https://github.com/emmett-framework/granian) - A Rust HTTP server for Python applications (2 days ago)
+- [volfpeter/fasthx](https://github.com/volfpeter/fasthx) - FastAPI and HTMX, the right way. (2 days ago)
+- [qdm12/ddns-updater](https://github.com/qdm12/ddns-updater) - Container to update DNS records periodically with WebUI for many DNS providers (5 days ago)
+- [krateng/maloja](https://github.com/krateng/maloja) - Self-hosted music scrobble database to create personal listening statistics and charts (6 days ago)
+- [FoxxMD/multi-scrobbler](https://github.com/FoxxMD/multi-scrobbler) - Scrobble plays from multiple sources to multiple clients (6 days ago)
