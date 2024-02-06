@@ -23,8 +23,8 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
-- [mkjt2/lockbox](https://github.com/mkjt2/lockbox) - Lockbox is a forward proxy for making third party API calls. (4 days ago)
-- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines. (6 days ago)
-- [NLKNguyen/papercolor-theme](https://github.com/NLKNguyen/papercolor-theme) - :art: Light &amp; Dark Vim color schemes inspired by Google&#39;s Material Design (6 days ago)
-- [morhetz/gruvbox](https://github.com/morhetz/gruvbox) - Retro groove color scheme for Vim (6 days ago)
+- [mkjt2/lockbox](https://github.com/mkjt2/lockbox) - Lockbox is a forward proxy for making third party API calls. (5 days ago)
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines. (1 week ago)
+- [NLKNguyen/papercolor-theme](https://github.com/NLKNguyen/papercolor-theme) - :art: Light &amp; Dark Vim color schemes inspired by Google&#39;s Material Design (1 week ago)
+- [morhetz/gruvbox](https://github.com/morhetz/gruvbox) - Retro groove color scheme for Vim (1 week ago)
 - [emmett-framework/granian](https://github.com/emmett-framework/granian) - A Rust HTTP server for Python applications (1 week ago)
