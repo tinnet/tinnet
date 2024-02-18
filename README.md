@@ -7,7 +7,7 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### 🔨 Latest Pull Requests I published
 
-- [Allow users to set their own accent color by passing in a color object](https://github.com/mintyfrankie/brilliant-CV-Submodule/pull/10) on [mintyfrankie/brilliant-CV-Submodule](https://github.com/mintyfrankie/brilliant-CV-Submodule) (4 months ago)
+- [Allow users to set their own accent color by passing in a color object](https://github.com/mintyfrankie/brilliant-CV-Submodule/pull/10) on [mintyfrankie/brilliant-CV-Submodule](https://github.com/mintyfrankie/brilliant-CV-Submodule) (5 months ago)
 - [[RFC] Don&#39;t replace proxy with random port in AddOrReplace](https://github.com/Shopify/toxiproxy/pull/356) on [Shopify/toxiproxy](https://github.com/Shopify/toxiproxy) (2 years ago)
 - [fix: add two more patterns to change cfgMap name during freeze](https://github.com/shyiko/kubetpl/pull/12) on [shyiko/kubetpl](https://github.com/shyiko/kubetpl) (5 years ago)
 - [Add node 5.6 and 5.7 presets](https://github.com/michaelcontento/babel-preset-modern-node/pull/35) on [michaelcontento/babel-preset-modern-node](https://github.com/michaelcontento/babel-preset-modern-node) (8 years ago)
@@ -23,8 +23,8 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
-- [Never-Over/modguard](https://github.com/Never-Over/modguard) -  (1 day ago)
-- [hynek/structlog](https://github.com/hynek/structlog) - Simple, powerful, and fast logging for Python. (1 day ago)
-- [Delgan/loguru](https://github.com/Delgan/loguru) - Python logging made (stupidly) simple (1 day ago)
-- [etianen/logot](https://github.com/etianen/logot) - Test whether your code is logging correctly 🪵 (1 day ago)
-- [aws/event-ruler](https://github.com/aws/event-ruler) - Event Ruler is a Java library that allows matching many thousands of Events per second to any number of expressive and sophisticated rules. (1 day ago)
+- [Never-Over/modguard](https://github.com/Never-Over/modguard) -  (2 days ago)
+- [hynek/structlog](https://github.com/hynek/structlog) - Simple, powerful, and fast logging for Python. (2 days ago)
+- [Delgan/loguru](https://github.com/Delgan/loguru) - Python logging made (stupidly) simple (2 days ago)
+- [etianen/logot](https://github.com/etianen/logot) - Test whether your code is logging correctly 🪵 (2 days ago)
+- [aws/event-ruler](https://github.com/aws/event-ruler) - Event Ruler is a Java library that allows matching many thousands of Events per second to any number of expressive and sophisticated rules. (2 days ago)
