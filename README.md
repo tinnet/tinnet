@@ -23,8 +23,8 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
-- [Never-Over/modguard](https://github.com/Never-Over/modguard) -  (2 days ago)
-- [hynek/structlog](https://github.com/hynek/structlog) - Simple, powerful, and fast logging for Python. (2 days ago)
-- [Delgan/loguru](https://github.com/Delgan/loguru) - Python logging made (stupidly) simple (2 days ago)
-- [etianen/logot](https://github.com/etianen/logot) - Test whether your code is logging correctly 🪵 (2 days ago)
-- [aws/event-ruler](https://github.com/aws/event-ruler) - Event Ruler is a Java library that allows matching many thousands of Events per second to any number of expressive and sophisticated rules. (2 days ago)
+- [Never-Over/modguard](https://github.com/Never-Over/modguard) -  (3 days ago)
+- [hynek/structlog](https://github.com/hynek/structlog) - Simple, powerful, and fast logging for Python. (3 days ago)
+- [Delgan/loguru](https://github.com/Delgan/loguru) - Python logging made (stupidly) simple (3 days ago)
+- [etianen/logot](https://github.com/etianen/logot) - Test whether your code is logging correctly 🪵 (3 days ago)
+- [aws/event-ruler](https://github.com/aws/event-ruler) - Event Ruler is a Java library that allows matching many thousands of Events per second to any number of expressive and sophisticated rules. (3 days ago)
