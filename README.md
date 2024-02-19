@@ -23,8 +23,8 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
-- [Never-Over/modguard](https://github.com/Never-Over/modguard) -  (3 days ago)
-- [hynek/structlog](https://github.com/hynek/structlog) - Simple, powerful, and fast logging for Python. (3 days ago)
-- [Delgan/loguru](https://github.com/Delgan/loguru) - Python logging made (stupidly) simple (3 days ago)
-- [etianen/logot](https://github.com/etianen/logot) - Test whether your code is logging correctly 🪵 (3 days ago)
-- [aws/event-ruler](https://github.com/aws/event-ruler) - Event Ruler is a Java library that allows matching many thousands of Events per second to any number of expressive and sophisticated rules. (3 days ago)
+- [IdreesInc/Miracode](https://github.com/IdreesInc/Miracode) - A sharp, readable, vector-y version of Monocraft, the programming font based on Minecraft (today)
+- [brianpetro/obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections) - Chat with your notes in Obsidian! Plus, see what&#39;s most relevant in real-time! Interact and stay organized. Powered by OpenAI ChatGPT, GPT-4 &amp; Embeddings. (today)
+- [reorproject/reor](https://github.com/reorproject/reor) - AI note-taking app that runs models locally. (today)
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, and other large language models. (today)
+- [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package installer and resolver, written in Rust. (today)
