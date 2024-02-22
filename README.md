@@ -23,8 +23,8 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
-- [IdreesInc/Miracode](https://github.com/IdreesInc/Miracode) - A sharp, readable, vector-y version of Monocraft, the programming font based on Minecraft (2 days ago)
-- [brianpetro/obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections) - Chat with your notes in Obsidian! Plus, see what&#39;s most relevant in real-time! Interact and stay organized. Powered by OpenAI ChatGPT, GPT-4 &amp; Embeddings. (2 days ago)
-- [reorproject/reor](https://github.com/reorproject/reor) - AI note-taking app that runs models locally. (2 days ago)
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, and other large language models. (2 days ago)
-- [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package installer and resolver, written in Rust. (2 days ago)
+- [IdreesInc/Miracode](https://github.com/IdreesInc/Miracode) - A sharp, readable, vector-y version of Monocraft, the programming font based on Minecraft (3 days ago)
+- [brianpetro/obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections) - Chat with your notes in Obsidian! Plus, see what&#39;s most relevant in real-time! Interact and stay organized. Powered by OpenAI ChatGPT, GPT-4 &amp; Embeddings. (3 days ago)
+- [reorproject/reor](https://github.com/reorproject/reor) - AI note-taking app that runs models locally. (3 days ago)
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, and other large language models. (3 days ago)
+- [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package installer and resolver, written in Rust. (3 days ago)
