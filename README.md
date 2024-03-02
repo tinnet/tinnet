@@ -23,8 +23,8 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
-- [Jip-Hop/ubernerd](https://github.com/Jip-Hop/ubernerd) - Run Docker and LXC-like containers with a portable install of nerdctl on a systemd based host (today)
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources. (2 days ago)
-- [printfn/fend](https://github.com/printfn/fend) - Arbitrary-precision unit-aware calculator (2 days ago)
-- [kimono-koans/httm](https://github.com/kimono-koans/httm) - Interactive, file-level Time Machine-like tool for ZFS/btrfs/nilfs2 (and even actual Time Machine backups!) (2 days ago)
-- [osquery/osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics. (3 days ago)
+- [Jip-Hop/ubernerd](https://github.com/Jip-Hop/ubernerd) - Run Docker and LXC-like containers with a portable install of nerdctl on a systemd based host (1 day ago)
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources. (3 days ago)
+- [printfn/fend](https://github.com/printfn/fend) - Arbitrary-precision unit-aware calculator (3 days ago)
+- [kimono-koans/httm](https://github.com/kimono-koans/httm) - Interactive, file-level Time Machine-like tool for ZFS/btrfs/nilfs2 (and even actual Time Machine backups!) (3 days ago)
+- [osquery/osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics. (4 days ago)
