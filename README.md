@@ -23,8 +23,8 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
+- [ollm/OpenComic](https://github.com/ollm/OpenComic) - Comic and Manga reader, written with Node.js and using Electron (today)
 - [aptible/supercronic](https://github.com/aptible/supercronic) - Cron for containers (today)
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner (today)
 - [batistein/dotfiles](https://github.com/batistein/dotfiles) - Dotfiles managed by chezmoi.  (1 day ago)
 - [zinc-collective/convene](https://github.com/zinc-collective/convene) - An Operating System for the Solidarity Economy (1 day ago)
-- [loro-dev/loro](https://github.com/loro-dev/loro) - Reimagine state management with CRDTs. Make your app collaborative effortlessly. (1 day ago)
