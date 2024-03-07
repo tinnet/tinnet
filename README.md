@@ -23,8 +23,8 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
-- [batistein/dotfiles](https://github.com/batistein/dotfiles) - Dotfiles managed by chezmoi.  (today)
-- [zinc-collective/convene](https://github.com/zinc-collective/convene) - An Operating System for the Solidarity Economy (today)
-- [loro-dev/loro](https://github.com/loro-dev/loro) - Reimagine state management with CRDTs. Make your app collaborative effortlessly. (today)
-- [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations. (1 day ago)
-- [simulot/immich-go](https://github.com/simulot/immich-go) - An alternative to the immich-CLI command that doesn&#39;t depend on nodejs installation. It tries its best for importing google photos takeout archives. (1 day ago)
+- [casey/just](https://github.com/casey/just) - 🤖 Just a command runner (today)
+- [batistein/dotfiles](https://github.com/batistein/dotfiles) - Dotfiles managed by chezmoi.  (1 day ago)
+- [zinc-collective/convene](https://github.com/zinc-collective/convene) - An Operating System for the Solidarity Economy (1 day ago)
+- [loro-dev/loro](https://github.com/loro-dev/loro) - Reimagine state management with CRDTs. Make your app collaborative effortlessly. (1 day ago)
+- [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations. (2 days ago)
