@@ -23,8 +23,8 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
-- [seenaburns/isolate](https://github.com/seenaburns/isolate) - Lightweight image browser (3 days ago)
-- [guidocella/mpv-image-config](https://github.com/guidocella/mpv-image-config) - Example configuration for using mpv as an image viewer (3 days ago)
-- [ollm/OpenComic](https://github.com/ollm/OpenComic) - Comic and Manga reader, written with Node.js and using Electron (3 days ago)
-- [aptible/supercronic](https://github.com/aptible/supercronic) - Cron for containers (3 days ago)
-- [casey/just](https://github.com/casey/just) - 🤖 Just a command runner (3 days ago)
+- [seenaburns/isolate](https://github.com/seenaburns/isolate) - Lightweight image browser (4 days ago)
+- [guidocella/mpv-image-config](https://github.com/guidocella/mpv-image-config) - Example configuration for using mpv as an image viewer (4 days ago)
+- [ollm/OpenComic](https://github.com/ollm/OpenComic) - Comic and Manga reader, written with Node.js and using Electron (4 days ago)
+- [aptible/supercronic](https://github.com/aptible/supercronic) - Cron for containers (4 days ago)
+- [casey/just](https://github.com/casey/just) - 🤖 Just a command runner (4 days ago)
