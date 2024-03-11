@@ -23,8 +23,8 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
-- [seenaburns/isolate](https://github.com/seenaburns/isolate) - Lightweight image browser (4 days ago)
-- [guidocella/mpv-image-config](https://github.com/guidocella/mpv-image-config) - Example configuration for using mpv as an image viewer (4 days ago)
-- [ollm/OpenComic](https://github.com/ollm/OpenComic) - Comic and Manga reader, written with Node.js and using Electron (4 days ago)
-- [aptible/supercronic](https://github.com/aptible/supercronic) - Cron for containers (4 days ago)
-- [casey/just](https://github.com/casey/just) - 🤖 Just a command runner (4 days ago)
+- [dbohdan/classless-css](https://github.com/dbohdan/classless-css) - A list of classless CSS themes/frameworks with screenshots (today)
+- [tbolt/boltcss](https://github.com/tbolt/boltcss) - Mostly-reasonable HTML Styles (today)
+- [mblode/marx](https://github.com/mblode/marx) - The classless CSS reset (perfect for Communists). (today)
+- [Speyll/suCSS](https://github.com/Speyll/suCSS) - A minimal and clean CSS Classless framework, designed to provide a lightweight and elegant foundation for web development. Keep your projects streamlined and stylish with a framework that doesn&#39;t suCC(S). 💼 (today)
+- [Speyll/anemone](https://github.com/Speyll/anemone) - A Zola theme embracing minimalism, focusing on clean CSS while steering clear of resource-heavy JavaScript. Immerse yourself in a seamless user experience, powered by lightning-fast load times. ⚡ (today)
