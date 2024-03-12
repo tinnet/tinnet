@@ -7,11 +7,11 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### 🔨 Latest Pull Requests I published
 
+- [[instagram] default posts `like_count` to zero](https://github.com/mikf/gallery-dl/pull/5323) on [mikf/gallery-dl](https://github.com/mikf/gallery-dl) (today)
+- [[instagram] Don&#39;t check private status for *.../YOU/following*](https://github.com/mikf/gallery-dl/pull/5322) on [mikf/gallery-dl](https://github.com/mikf/gallery-dl) (today)
 - [Allow users to set their own accent color by passing in a color object](https://github.com/mintyfrankie/brilliant-CV-Submodule/pull/10) on [mintyfrankie/brilliant-CV-Submodule](https://github.com/mintyfrankie/brilliant-CV-Submodule) (5 months ago)
 - [[RFC] Don&#39;t replace proxy with random port in AddOrReplace](https://github.com/Shopify/toxiproxy/pull/356) on [Shopify/toxiproxy](https://github.com/Shopify/toxiproxy) (2 years ago)
 - [fix: add two more patterns to change cfgMap name during freeze](https://github.com/shyiko/kubetpl/pull/12) on [shyiko/kubetpl](https://github.com/shyiko/kubetpl) (5 years ago)
-- [Add node 5.6 and 5.7 presets](https://github.com/michaelcontento/babel-preset-modern-node/pull/35) on [michaelcontento/babel-preset-modern-node](https://github.com/michaelcontento/babel-preset-modern-node) (8 years ago)
-- [replace call to print with logging.debug](https://github.com/jvanasco/pyramid_debugtoolbar_dogpile/pull/2) on [jvanasco/pyramid_debugtoolbar_dogpile](https://github.com/jvanasco/pyramid_debugtoolbar_dogpile) (8 years ago)
 
 #### 🌱 My latest projects
 
