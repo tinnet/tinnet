@@ -23,8 +23,8 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
-- [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client (today)
-- [dbohdan/classless-css](https://github.com/dbohdan/classless-css) - A list of classless CSS themes/frameworks with screenshots (today)
-- [tbolt/boltcss](https://github.com/tbolt/boltcss) - Mostly-reasonable HTML Styles (today)
-- [mblode/marx](https://github.com/mblode/marx) - The classless CSS reset (perfect for Communists). (today)
-- [Speyll/suCSS](https://github.com/Speyll/suCSS) - A minimal and clean CSS Classless framework, designed to provide a lightweight and elegant foundation for web development. Keep your projects streamlined and stylish with a framework that doesn&#39;t suCC(S). 💼 (today)
+- [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client (1 day ago)
+- [dbohdan/classless-css](https://github.com/dbohdan/classless-css) - A list of classless CSS themes/frameworks with screenshots (1 day ago)
+- [tbolt/boltcss](https://github.com/tbolt/boltcss) - Mostly-reasonable HTML Styles (1 day ago)
+- [mblode/marx](https://github.com/mblode/marx) - The classless CSS reset (perfect for Communists). (1 day ago)
+- [Speyll/suCSS](https://github.com/Speyll/suCSS) - A minimal and clean CSS Classless framework, designed to provide a lightweight and elegant foundation for web development. Keep your projects streamlined and stylish with a framework that doesn&#39;t suCC(S). 💼 (1 day ago)
