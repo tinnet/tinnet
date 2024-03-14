@@ -23,8 +23,8 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
+- [icloud-photos-downloader/icloud_photos_downloader](https://github.com/icloud-photos-downloader/icloud_photos_downloader) - A command-line tool to download photos from iCloud (today)
+- [0xCCF4/PhotoSort](https://github.com/0xCCF4/PhotoSort) - A tool to rename/move/copy/hardlink/symlink and sort photos by its EXIF date. (today)
+- [T8RIN/ImageToolbox](https://github.com/T8RIN/ImageToolbox) - 🖼️ Image Toolbox is an powerful picture editor, which can crop, apply filters, add some drawing, erase background, edit EXIF or even create PDF file (today)
+- [jonkeren/Exiftool-Commands](https://github.com/jonkeren/Exiftool-Commands) - Several Exiftool commands I have used to edit/sort my pictures and improve metadata. (today)
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client (3 days ago)
-- [dbohdan/classless-css](https://github.com/dbohdan/classless-css) - A list of classless CSS themes/frameworks with screenshots (3 days ago)
-- [tbolt/boltcss](https://github.com/tbolt/boltcss) - Mostly-reasonable HTML Styles (3 days ago)
-- [mblode/marx](https://github.com/mblode/marx) - The classless CSS reset (perfect for Communists). (3 days ago)
-- [Speyll/suCSS](https://github.com/Speyll/suCSS) - A minimal and clean CSS Classless framework, designed to provide a lightweight and elegant foundation for web development. Keep your projects streamlined and stylish with a framework that doesn&#39;t suCC(S). 💼 (3 days ago)
