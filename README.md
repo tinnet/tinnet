@@ -23,8 +23,8 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
+- [arpankapoor/exifrenamer](https://github.com/arpankapoor/exifrenamer) - rename image files based on EXIF tags (today)
+- [antscloud/clineup](https://github.com/antscloud/clineup) - Clineup: CLI tool to arrange your files. (today)
+- [ayoisaiah/f2](https://github.com/ayoisaiah/f2) - F2 is a cross-platform command-line tool for batch renaming files and directories quickly and safely. Written in Go! (today)
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for Rust, C&#43;&#43;, or JavaScript apps. (1 day ago)
 - [icloud-photos-downloader/icloud_photos_downloader](https://github.com/icloud-photos-downloader/icloud_photos_downloader) - A command-line tool to download photos from iCloud (1 day ago)
-- [0xCCF4/PhotoSort](https://github.com/0xCCF4/PhotoSort) - A tool to rename/move/copy/hardlink/symlink and sort photos by its EXIF date. (1 day ago)
-- [T8RIN/ImageToolbox](https://github.com/T8RIN/ImageToolbox) - 🖼️ Image Toolbox is an powerful picture editor, which can crop, apply filters, add some drawing, erase background, edit EXIF or even create PDF file (1 day ago)
-- [jonkeren/Exiftool-Commands](https://github.com/jonkeren/Exiftool-Commands) - Several Exiftool commands I have used to edit/sort my pictures and improve metadata. (1 day ago)
