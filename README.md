@@ -15,11 +15,11 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### 🌱 My latest projects
 
-- [tinnet/asdf-rnr](https://github.com/tinnet/asdf-rnr)
 - [tinnet/aoc2023-java](https://github.com/tinnet/aoc2023-java)
 - [tinnet/aoc2023-kotlin](https://github.com/tinnet/aoc2023-kotlin)
 - [tinnet/dotfiles](https://github.com/tinnet/dotfiles)
 - [tinnet/docker-nginx-s3proxy](https://github.com/tinnet/docker-nginx-s3proxy) - nginx based proxy for s3 - docker
+- [tinnet/java-uuid-validation-benchmark](https://github.com/tinnet/java-uuid-validation-benchmark) - microbenchmarking UUID validation regexes in Java
 
 #### ⭐ Recent Stars
 
