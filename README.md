@@ -23,8 +23,8 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
-- [arpankapoor/exifrenamer](https://github.com/arpankapoor/exifrenamer) - rename image files based on EXIF tags (4 days ago)
-- [antscloud/clineup](https://github.com/antscloud/clineup) - Clineup: CLI tool to arrange your files. (4 days ago)
-- [ayoisaiah/f2](https://github.com/ayoisaiah/f2) - F2 is a cross-platform command-line tool for batch renaming files and directories quickly and safely. Written in Go! (4 days ago)
-- [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for Rust, C&#43;&#43;, or JavaScript apps. (5 days ago)
-- [icloud-photos-downloader/icloud_photos_downloader](https://github.com/icloud-photos-downloader/icloud_photos_downloader) - A command-line tool to download photos from iCloud (5 days ago)
+- [arpankapoor/exifrenamer](https://github.com/arpankapoor/exifrenamer) - rename image files based on EXIF tags (5 days ago)
+- [antscloud/clineup](https://github.com/antscloud/clineup) - Clineup: CLI tool to arrange your files. (5 days ago)
+- [ayoisaiah/f2](https://github.com/ayoisaiah/f2) - F2 is a cross-platform command-line tool for batch renaming files and directories quickly and safely. Written in Go! (5 days ago)
+- [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for Rust, C&#43;&#43;, or JavaScript apps. (6 days ago)
+- [icloud-photos-downloader/icloud_photos_downloader](https://github.com/icloud-photos-downloader/icloud_photos_downloader) - A command-line tool to download photos from iCloud (6 days ago)
