@@ -23,8 +23,8 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
-- [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files (today)
-- [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc. (today)
-- [photostructure/photostructure-for-servers](https://github.com/photostructure/photostructure-for-servers) - PhotoStructure for Servers (today)
-- [45Drives/autotier](https://github.com/45Drives/autotier) - A passthrough FUSE filesystem that intelligently moves files between storage tiers based on frequency of use, file age, and tier fullness. (1 day ago)
-- [tconbeer/harlequin](https://github.com/tconbeer/harlequin) - The SQL IDE for Your Terminal. (2 days ago)
+- [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files (1 day ago)
+- [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc. (1 day ago)
+- [photostructure/photostructure-for-servers](https://github.com/photostructure/photostructure-for-servers) - PhotoStructure for Servers (1 day ago)
+- [45Drives/autotier](https://github.com/45Drives/autotier) - A passthrough FUSE filesystem that intelligently moves files between storage tiers based on frequency of use, file age, and tier fullness. (2 days ago)
+- [tconbeer/harlequin](https://github.com/tconbeer/harlequin) - The SQL IDE for Your Terminal. (3 days ago)
