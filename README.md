@@ -7,8 +7,8 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### 🔨 Latest Pull Requests I published
 
-- [[instagram] default posts `like_count` to zero](https://github.com/mikf/gallery-dl/pull/5323) on [mikf/gallery-dl](https://github.com/mikf/gallery-dl) (1 week ago)
-- [[instagram] Don&#39;t check private status for *.../YOU/following*](https://github.com/mikf/gallery-dl/pull/5322) on [mikf/gallery-dl](https://github.com/mikf/gallery-dl) (1 week ago)
+- [[instagram] default posts `like_count` to zero](https://github.com/mikf/gallery-dl/pull/5323) on [mikf/gallery-dl](https://github.com/mikf/gallery-dl) (2 weeks ago)
+- [[instagram] Don&#39;t check private status for *.../YOU/following*](https://github.com/mikf/gallery-dl/pull/5322) on [mikf/gallery-dl](https://github.com/mikf/gallery-dl) (2 weeks ago)
 - [Allow users to set their own accent color by passing in a color object](https://github.com/mintyfrankie/brilliant-CV-Submodule/pull/10) on [mintyfrankie/brilliant-CV-Submodule](https://github.com/mintyfrankie/brilliant-CV-Submodule) (6 months ago)
 - [[RFC] Don&#39;t replace proxy with random port in AddOrReplace](https://github.com/Shopify/toxiproxy/pull/356) on [Shopify/toxiproxy](https://github.com/Shopify/toxiproxy) (2 years ago)
 - [fix: add two more patterns to change cfgMap name during freeze](https://github.com/shyiko/kubetpl/pull/12) on [shyiko/kubetpl](https://github.com/shyiko/kubetpl) (5 years ago)
@@ -23,8 +23,8 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
-- [ivandokov/phockup](https://github.com/ivandokov/phockup) - Media sorting tool to organize photos and videos from your camera in folders by year, month and day. (today)
-- [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files (1 day ago)
-- [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc. (1 day ago)
-- [photostructure/photostructure-for-servers](https://github.com/photostructure/photostructure-for-servers) - PhotoStructure for Servers (1 day ago)
-- [45Drives/autotier](https://github.com/45Drives/autotier) - A passthrough FUSE filesystem that intelligently moves files between storage tiers based on frequency of use, file age, and tier fullness. (2 days ago)
+- [ivandokov/phockup](https://github.com/ivandokov/phockup) - Media sorting tool to organize photos and videos from your camera in folders by year, month and day. (1 day ago)
+- [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files (2 days ago)
+- [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc. (2 days ago)
+- [photostructure/photostructure-for-servers](https://github.com/photostructure/photostructure-for-servers) - PhotoStructure for Servers (2 days ago)
+- [45Drives/autotier](https://github.com/45Drives/autotier) - A passthrough FUSE filesystem that intelligently moves files between storage tiers based on frequency of use, file age, and tier fullness. (3 days ago)
