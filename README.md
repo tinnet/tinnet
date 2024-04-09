@@ -7,8 +7,8 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### 🔨 Latest Pull Requests I published
 
-- [[instagram] default posts `like_count` to zero](https://github.com/mikf/gallery-dl/pull/5323) on [mikf/gallery-dl](https://github.com/mikf/gallery-dl) (3 weeks ago)
-- [[instagram] Don&#39;t check private status for *.../YOU/following*](https://github.com/mikf/gallery-dl/pull/5322) on [mikf/gallery-dl](https://github.com/mikf/gallery-dl) (3 weeks ago)
+- [[instagram] default posts `like_count` to zero](https://github.com/mikf/gallery-dl/pull/5323) on [mikf/gallery-dl](https://github.com/mikf/gallery-dl) (4 weeks ago)
+- [[instagram] Don&#39;t check private status for *.../YOU/following*](https://github.com/mikf/gallery-dl/pull/5322) on [mikf/gallery-dl](https://github.com/mikf/gallery-dl) (4 weeks ago)
 - [Allow users to set their own accent color by passing in a color object](https://github.com/mintyfrankie/brilliant-CV-Submodule/pull/10) on [mintyfrankie/brilliant-CV-Submodule](https://github.com/mintyfrankie/brilliant-CV-Submodule) (6 months ago)
 - [[RFC] Don&#39;t replace proxy with random port in AddOrReplace](https://github.com/Shopify/toxiproxy/pull/356) on [Shopify/toxiproxy](https://github.com/Shopify/toxiproxy) (2 years ago)
 - [fix: add two more patterns to change cfgMap name during freeze](https://github.com/shyiko/kubetpl/pull/12) on [shyiko/kubetpl](https://github.com/shyiko/kubetpl) (5 years ago)
@@ -23,8 +23,8 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
-- [stackframe-projects/pgmock](https://github.com/stackframe-projects/pgmock) - In-memory Postgres for unit/E2E tests (today)
-- [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today! (3 days ago)
-- [getgrav/grav](https://github.com/getgrav/grav) - Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS powered by PHP, Markdown, Twig, and Symfony (3 days ago)
+- [stackframe-projects/pgmock](https://github.com/stackframe-projects/pgmock) - In-memory Postgres for unit/E2E tests (1 day ago)
+- [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today! (4 days ago)
+- [getgrav/grav](https://github.com/getgrav/grav) - Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS powered by PHP, Markdown, Twig, and Symfony (4 days ago)
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy. (1 week ago)
 - [letsblockit/letsblockit](https://github.com/letsblockit/letsblockit) - Remove low-quality content and useless nags, focus on what matters. A community-maintained uBlock Origin filter set. (1 week ago)
