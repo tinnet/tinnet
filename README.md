@@ -23,8 +23,8 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
-- [borgo-lang/borgo](https://github.com/borgo-lang/borgo) - Borgo is a statically typed language that compiles to Go. (today)
-- [anthdm/gothstarter](https://github.com/anthdm/gothstarter) - Golang, Templ, HTMX, and Tailwind started pack (1 day ago)
-- [datafaker-net/datafaker](https://github.com/datafaker-net/datafaker) - Generating fake data for the JVM (Java, Kotlin, Groovy) has never been easier! (5 days ago)
-- [Shopify/autotuner](https://github.com/Shopify/autotuner) - Get suggestions to tune Ruby&#39;s garbage collector (5 days ago)
+- [borgo-lang/borgo](https://github.com/borgo-lang/borgo) - Borgo is a statically typed language that compiles to Go. (1 day ago)
+- [anthdm/gothstarter](https://github.com/anthdm/gothstarter) - Golang, Templ, HTMX, and Tailwind started pack (2 days ago)
+- [datafaker-net/datafaker](https://github.com/datafaker-net/datafaker) - Generating fake data for the JVM (Java, Kotlin, Groovy) has never been easier! (6 days ago)
+- [Shopify/autotuner](https://github.com/Shopify/autotuner) - Get suggestions to tune Ruby&#39;s garbage collector (6 days ago)
 - [coroot/coroot](https://github.com/coroot/coroot) - Coroot is an open-source APM &amp; Observability tool, a DataDog and NewRelic alternative 📊, 🖥️, 👉. Powered by eBPF for rapid insights into system performance. Monitor, analyze, and optimize your infrastructure effortlessly for peak reliability at any scale. (1 week ago)
