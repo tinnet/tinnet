@@ -23,8 +23,8 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
+- [tosh/expanse](https://github.com/tosh/expanse) - Expanse lets you explore your Apple Health data (today)
+- [pyinfra-dev/pyinfra](https://github.com/pyinfra-dev/pyinfra) - pyinfra automates infrastructure using Python. It’s fast and scales from one server to thousands. Great for ad-hoc command execution, service deployment, configuration management and more. (today)
+- [databonsai/databonsai](https://github.com/databonsai/databonsai) - clean &amp; curate your data with LLMs. (today)
 - [borgo-lang/borgo](https://github.com/borgo-lang/borgo) - Borgo is a statically typed language that compiles to Go. (2 days ago)
 - [anthdm/gothstarter](https://github.com/anthdm/gothstarter) - Golang, Templ, HTMX, and Tailwind started pack (3 days ago)
-- [datafaker-net/datafaker](https://github.com/datafaker-net/datafaker) - Generating fake data for the JVM (Java, Kotlin, Groovy) has never been easier! (1 week ago)
-- [Shopify/autotuner](https://github.com/Shopify/autotuner) - Get suggestions to tune Ruby&#39;s garbage collector (1 week ago)
-- [coroot/coroot](https://github.com/coroot/coroot) - Coroot is an open-source APM &amp; Observability tool, a DataDog and NewRelic alternative 📊, 🖥️, 👉. Powered by eBPF for rapid insights into system performance. Monitor, analyze, and optimize your infrastructure effortlessly for peak reliability at any scale. (1 week ago)
