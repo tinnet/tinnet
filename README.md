@@ -23,8 +23,8 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
-- [tosh/expanse](https://github.com/tosh/expanse) - Expanse lets you explore your Apple Health data (today)
-- [pyinfra-dev/pyinfra](https://github.com/pyinfra-dev/pyinfra) - pyinfra automates infrastructure using Python. It’s fast and scales from one server to thousands. Great for ad-hoc command execution, service deployment, configuration management and more. (today)
-- [databonsai/databonsai](https://github.com/databonsai/databonsai) - clean &amp; curate your data with LLMs. (today)
-- [borgo-lang/borgo](https://github.com/borgo-lang/borgo) - Borgo is a statically typed language that compiles to Go. (2 days ago)
-- [anthdm/gothstarter](https://github.com/anthdm/gothstarter) - Golang, Templ, HTMX, and Tailwind started pack (3 days ago)
+- [tosh/expanse](https://github.com/tosh/expanse) - Expanse lets you explore your Apple Health data (1 day ago)
+- [pyinfra-dev/pyinfra](https://github.com/pyinfra-dev/pyinfra) - pyinfra automates infrastructure using Python. It’s fast and scales from one server to thousands. Great for ad-hoc command execution, service deployment, configuration management and more. (1 day ago)
+- [databonsai/databonsai](https://github.com/databonsai/databonsai) - clean &amp; curate your data with LLMs. (1 day ago)
+- [borgo-lang/borgo](https://github.com/borgo-lang/borgo) - Borgo is a statically typed language that compiles to Go. (3 days ago)
+- [anthdm/gothstarter](https://github.com/anthdm/gothstarter) - Golang, Templ, HTMX, and Tailwind started pack (4 days ago)
