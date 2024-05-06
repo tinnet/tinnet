@@ -23,8 +23,8 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
-- [atlaslib/atlas](https://github.com/atlaslib/atlas) - Atlas lets you explore your Apple Health data (3 days ago)
-- [pyinfra-dev/pyinfra](https://github.com/pyinfra-dev/pyinfra) - pyinfra turns Python code into shell commands and runs them on your servers. Execute ad-hoc commands and write declarative operations. Target SSH servers, local machine and Docker containers. Fast and scales from one server to thousands. (3 days ago)
-- [databonsai/databonsai](https://github.com/databonsai/databonsai) - clean &amp; curate your data with LLMs. (3 days ago)
-- [borgo-lang/borgo](https://github.com/borgo-lang/borgo) - Borgo is a statically typed language that compiles to Go. (5 days ago)
-- [anthdm/gothstarter](https://github.com/anthdm/gothstarter) - Golang, Templ, HTMX, and Tailwind started pack (6 days ago)
+- [atlaslib/atlas](https://github.com/atlaslib/atlas) - Atlas lets you explore your Apple Health data (4 days ago)
+- [pyinfra-dev/pyinfra](https://github.com/pyinfra-dev/pyinfra) - pyinfra turns Python code into shell commands and runs them on your servers. Execute ad-hoc commands and write declarative operations. Target SSH servers, local machine and Docker containers. Fast and scales from one server to thousands. (4 days ago)
+- [databonsai/databonsai](https://github.com/databonsai/databonsai) - clean &amp; curate your data with LLMs. (4 days ago)
+- [borgo-lang/borgo](https://github.com/borgo-lang/borgo) - Borgo is a statically typed language that compiles to Go. (6 days ago)
+- [anthdm/gothstarter](https://github.com/anthdm/gothstarter) - Golang, Templ, HTMX, and Tailwind started pack (1 week ago)
