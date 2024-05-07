@@ -23,8 +23,8 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
-- [mrusme/zeit](https://github.com/mrusme/zeit) - Zeit, erfassen. A command line tool for tracking time spent on activities. (today)
-- [atlaslib/atlas](https://github.com/atlaslib/atlas) - Atlas lets you explore your Apple Health data (4 days ago)
-- [pyinfra-dev/pyinfra](https://github.com/pyinfra-dev/pyinfra) - pyinfra turns Python code into shell commands and runs them on your servers. Execute ad-hoc commands and write declarative operations. Target SSH servers, local machine and Docker containers. Fast and scales from one server to thousands. (4 days ago)
-- [databonsai/databonsai](https://github.com/databonsai/databonsai) - clean &amp; curate your data with LLMs. (4 days ago)
-- [borgo-lang/borgo](https://github.com/borgo-lang/borgo) - Borgo is a statically typed language that compiles to Go. (6 days ago)
+- [mrusme/zeit](https://github.com/mrusme/zeit) - Zeit, erfassen. A command line tool for tracking time spent on activities. (1 day ago)
+- [atlaslib/atlas](https://github.com/atlaslib/atlas) - Atlas lets you explore your Apple Health data (5 days ago)
+- [pyinfra-dev/pyinfra](https://github.com/pyinfra-dev/pyinfra) - pyinfra turns Python code into shell commands and runs them on your servers. Execute ad-hoc commands and write declarative operations. Target SSH servers, local machine and Docker containers. Fast and scales from one server to thousands. (5 days ago)
+- [databonsai/databonsai](https://github.com/databonsai/databonsai) - clean &amp; curate your data with LLMs. (5 days ago)
+- [borgo-lang/borgo](https://github.com/borgo-lang/borgo) - Borgo is a statically typed language that compiles to Go. (1 week ago)
