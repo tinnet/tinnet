@@ -23,8 +23,8 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
+- [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer. Multiple engine support (llama.cpp, TensorRT-LLM) (today)
+- [awslabs/mountpoint-s3](https://github.com/awslabs/mountpoint-s3) - A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system. (today)
+- [xournalpp/xournalpp](https://github.com/xournalpp/xournalpp) - Xournal&#43;&#43; is a handwriting notetaking software with PDF annotation support. Written in C&#43;&#43; with GTK3, supporting Linux (e.g. Ubuntu, Debian, Arch, SUSE), macOS and Windows 10. Supports pen input from devices such as Wacom Tablets. (today)
 - [nikolassv/bartib](https://github.com/nikolassv/bartib) - A simple timetracker for the command line. It saves a log of all tracked activities as a plaintext file and allows you to create flexible reports. (today)
 - [mrusme/zeit](https://github.com/mrusme/zeit) - Zeit, erfassen. A command line tool for tracking time spent on activities. (2 days ago)
-- [atlaslib/atlas](https://github.com/atlaslib/atlas) - Atlas lets you explore your Apple Health data (6 days ago)
-- [pyinfra-dev/pyinfra](https://github.com/pyinfra-dev/pyinfra) - pyinfra turns Python code into shell commands and runs them on your servers. Execute ad-hoc commands and write declarative operations. Target SSH servers, local machine and Docker containers. Fast and scales from one server to thousands. (6 days ago)
-- [databonsai/databonsai](https://github.com/databonsai/databonsai) - clean &amp; curate your data with LLMs. (6 days ago)
