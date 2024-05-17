@@ -23,8 +23,8 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
-- [linkdd/procfusion](https://github.com/linkdd/procfusion) - Very simple process manager written in Rust for your Docker images (today)
-- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack GUI library for web, desktop, mobile, and more. (1 day ago)
-- [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust. (1 day ago)
-- [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api&#39;s (lightweight alternative to postman/insomnia) (1 day ago)
-- [MHNightCat/superfile](https://github.com/MHNightCat/superfile) - Pretty fancy and modern terminal file manager (6 days ago)
+- [linkdd/procfusion](https://github.com/linkdd/procfusion) - Very simple process manager written in Rust for your Docker images (1 day ago)
+- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack GUI library for web, desktop, mobile, and more. (2 days ago)
+- [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust. (2 days ago)
+- [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api&#39;s (lightweight alternative to postman/insomnia) (2 days ago)
+- [MHNightCat/superfile](https://github.com/MHNightCat/superfile) - Pretty fancy and modern terminal file manager (1 week ago)
