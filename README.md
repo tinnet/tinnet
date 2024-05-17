@@ -27,4 +27,4 @@ Always looking to get better at the tools I know or learn about new ones and how
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack GUI library for web, desktop, mobile, and more. (2 days ago)
 - [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust. (2 days ago)
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api&#39;s (lightweight alternative to postman/insomnia) (2 days ago)
-- [MHNightCat/superfile](https://github.com/MHNightCat/superfile) - Pretty fancy and modern terminal file manager (1 week ago)
+- [mhnightcat/superfile](https://github.com/mhnightcat/superfile) - Pretty fancy and modern terminal file manager (1 week ago)
