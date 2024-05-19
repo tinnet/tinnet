@@ -23,8 +23,8 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
-- [mainmatter/100-exercises-to-learn-rust](https://github.com/mainmatter/100-exercises-to-learn-rust) - A self-paced course to learn Rust, one exercise at a time. (today)
-- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) - Neovim config for the lazy (1 day ago)
-- [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands (1 day ago)
-- [k0nserv/kitty-icon](https://github.com/k0nserv/kitty-icon) - An alternative app icon for the Kitty terminal emulator (1 day ago)
-- [DinkDonk/kitty-icon](https://github.com/DinkDonk/kitty-icon) - An alternative MacOS application icon for the wonderful Kitty terminal emulator. (1 day ago)
+- [builtbybel/Winpilot](https://github.com/builtbybel/Winpilot) - The manic cousin of Microsoft Copilot (1 day ago)
+- [xM4ddy/OFGB](https://github.com/xM4ddy/OFGB) - GUI Tool To Removes Ads From Various Places Around Windows 11 (1 day ago)
+- [mainmatter/100-exercises-to-learn-rust](https://github.com/mainmatter/100-exercises-to-learn-rust) - A self-paced course to learn Rust, one exercise at a time. (1 day ago)
+- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) - Neovim config for the lazy (2 days ago)
+- [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands (2 days ago)
