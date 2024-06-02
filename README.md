@@ -23,8 +23,8 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
-- [nikolaydubina/go-recipes](https://github.com/nikolaydubina/go-recipes) - 🦩 Tools for Go projects (today)
-- [Xzya/django-web-components](https://github.com/Xzya/django-web-components) - A simple way to create reusable template components in Django. (1 day ago)
-- [felixhageloh/uebersicht](https://github.com/felixhageloh/uebersicht) - ˈyːbɐˌzɪçt (2 days ago)
-- [chasefleming/elem-go](https://github.com/chasefleming/elem-go) - Type-safe Go library for creating and manipulating HTML elements (with htmx helpers). (3 days ago)
-- [delaneyj/gostar](https://github.com/delaneyj/gostar) - Fluent HTML without templates, built from spec (3 days ago)
+- [nikolaydubina/go-recipes](https://github.com/nikolaydubina/go-recipes) - 🦩 Tools for Go projects (1 day ago)
+- [Xzya/django-web-components](https://github.com/Xzya/django-web-components) - A simple way to create reusable template components in Django. (2 days ago)
+- [felixhageloh/uebersicht](https://github.com/felixhageloh/uebersicht) - ˈyːbɐˌzɪçt (3 days ago)
+- [chasefleming/elem-go](https://github.com/chasefleming/elem-go) - Type-safe Go library for creating and manipulating HTML elements (with htmx helpers). (4 days ago)
+- [delaneyj/gostar](https://github.com/delaneyj/gostar) - Fluent HTML without templates, built from spec (4 days ago)
