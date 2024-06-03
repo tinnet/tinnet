@@ -23,8 +23,8 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
+- [tobi/dotfiles](https://github.com/tobi/dotfiles) -  (today)
+- [huggingface/optimum-nvidia](https://github.com/huggingface/optimum-nvidia) -  (today)
 - [tiangolo/sqlmodel](https://github.com/tiangolo/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness. (1 day ago)
 - [nikolaydubina/go-recipes](https://github.com/nikolaydubina/go-recipes) - 🦩 Tools for Go projects (2 days ago)
 - [Xzya/django-web-components](https://github.com/Xzya/django-web-components) - A simple way to create reusable template components in Django. (3 days ago)
-- [felixhageloh/uebersicht](https://github.com/felixhageloh/uebersicht) - ˈyːbɐˌzɪçt (4 days ago)
-- [chasefleming/elem-go](https://github.com/chasefleming/elem-go) - Type-safe Go library for creating and manipulating HTML elements (with htmx helpers). (5 days ago)
