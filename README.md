@@ -23,8 +23,8 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
+- [lambda-fairy/maud](https://github.com/lambda-fairy/maud) - :pencil: Compile-time HTML templates for Rust (today)
+- [vidhanio/hypertext](https://github.com/vidhanio/hypertext) - A blazing fast type-checked HTML macro crate. (today)
 - [tobi/dotfiles](https://github.com/tobi/dotfiles) -  (1 day ago)
 - [huggingface/optimum-nvidia](https://github.com/huggingface/optimum-nvidia) -  (1 day ago)
 - [tiangolo/sqlmodel](https://github.com/tiangolo/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness. (2 days ago)
-- [nikolaydubina/go-recipes](https://github.com/nikolaydubina/go-recipes) - 🦩 Tools for Go projects (3 days ago)
-- [Xzya/django-web-components](https://github.com/Xzya/django-web-components) - A simple way to create reusable template components in Django. (4 days ago)
