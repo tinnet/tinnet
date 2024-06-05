@@ -23,8 +23,8 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
-- [AccentDesign/gcss](https://github.com/AccentDesign/gcss) - CSS written in Pure Go (today)
-- [Stebalien/horrorshow-rs](https://github.com/Stebalien/horrorshow-rs) - A macro-based html builder for rust (today)
-- [theplant/htmlgo](https://github.com/theplant/htmlgo) - Type safe and modularize way to generate html on server side. (today)
-- [bodil/typed-html](https://github.com/bodil/typed-html) - Type checked JSX for Rust (today)
-- [lambda-fairy/maud](https://github.com/lambda-fairy/maud) - :pencil: Compile-time HTML templates for Rust (today)
+- [AccentDesign/gcss](https://github.com/AccentDesign/gcss) - CSS written in Pure Go (1 day ago)
+- [Stebalien/horrorshow-rs](https://github.com/Stebalien/horrorshow-rs) - A macro-based html builder for rust (1 day ago)
+- [theplant/htmlgo](https://github.com/theplant/htmlgo) - Type safe and modularize way to generate html on server side. (1 day ago)
+- [bodil/typed-html](https://github.com/bodil/typed-html) - Type checked JSX for Rust (1 day ago)
+- [lambda-fairy/maud](https://github.com/lambda-fairy/maud) - :pencil: Compile-time HTML templates for Rust (1 day ago)
