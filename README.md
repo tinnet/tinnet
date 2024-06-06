@@ -23,8 +23,8 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
+- [hackerb9/lsix](https://github.com/hackerb9/lsix) - Like &#34;ls&#34;, but for images. Shows thumbnails in terminal using sixel graphics. (today)
 - [rio-labs/rio](https://github.com/rio-labs/rio) - WebApps in pure Python. No JavaScript, HTML and CSS needed (today)
 - [AccentDesign/gcss](https://github.com/AccentDesign/gcss) - CSS written in Pure Go (2 days ago)
 - [Stebalien/horrorshow-rs](https://github.com/Stebalien/horrorshow-rs) - A macro-based html builder for rust (2 days ago)
 - [theplant/htmlgo](https://github.com/theplant/htmlgo) - Type safe and modularize way to generate html on server side. (2 days ago)
-- [bodil/typed-html](https://github.com/bodil/typed-html) - Type checked JSX for Rust (2 days ago)
