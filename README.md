@@ -7,7 +7,7 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### 🔨 Latest Pull Requests I published
 
-- [feat(cvEntry): add url to link to ~company~ society](https://github.com/mintyfrankie/brilliant-CV-Submodule/pull/27) on [mintyfrankie/brilliant-CV-Submodule](https://github.com/mintyfrankie/brilliant-CV-Submodule) (1 day ago)
+- [feat(cvEntry): add url to link to ~company~ society](https://github.com/mintyfrankie/brilliant-CV-Submodule/pull/27) on [mintyfrankie/brilliant-CV-Submodule](https://github.com/mintyfrankie/brilliant-CV-Submodule) (2 days ago)
 - [[instagram] default posts `like_count` to zero](https://github.com/mikf/gallery-dl/pull/5323) on [mikf/gallery-dl](https://github.com/mikf/gallery-dl) (2 months ago)
 - [[instagram] Don&#39;t check private status for *.../YOU/following*](https://github.com/mikf/gallery-dl/pull/5322) on [mikf/gallery-dl](https://github.com/mikf/gallery-dl) (2 months ago)
 - [Allow users to set their own accent color by passing in a color object](https://github.com/mintyfrankie/brilliant-CV-Submodule/pull/10) on [mintyfrankie/brilliant-CV-Submodule](https://github.com/mintyfrankie/brilliant-CV-Submodule) (8 months ago)
@@ -23,8 +23,8 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
-- [hackerb9/lsix](https://github.com/hackerb9/lsix) - Like &#34;ls&#34;, but for images. Shows thumbnails in terminal using sixel graphics. (today)
-- [rio-labs/rio](https://github.com/rio-labs/rio) - WebApps in pure Python. No JavaScript, HTML and CSS needed (today)
-- [AccentDesign/gcss](https://github.com/AccentDesign/gcss) - CSS written in Pure Go (2 days ago)
-- [Stebalien/horrorshow-rs](https://github.com/Stebalien/horrorshow-rs) - A macro-based html builder for rust (2 days ago)
-- [theplant/htmlgo](https://github.com/theplant/htmlgo) - Type safe and modularize way to generate html on server side. (2 days ago)
+- [hackerb9/lsix](https://github.com/hackerb9/lsix) - Like &#34;ls&#34;, but for images. Shows thumbnails in terminal using sixel graphics. (1 day ago)
+- [rio-labs/rio](https://github.com/rio-labs/rio) - WebApps in pure Python. No JavaScript, HTML and CSS needed (1 day ago)
+- [AccentDesign/gcss](https://github.com/AccentDesign/gcss) - CSS written in Pure Go (3 days ago)
+- [Stebalien/horrorshow-rs](https://github.com/Stebalien/horrorshow-rs) - A macro-based html builder for rust (3 days ago)
+- [theplant/htmlgo](https://github.com/theplant/htmlgo) - Type safe and modularize way to generate html on server side. (3 days ago)
