@@ -23,8 +23,8 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
+- [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you&#39;ve ever seen. Piku allows you to do git push deployments to your own servers. (today)
 - [andersju/1600pr.sh](https://github.com/andersju/1600pr.sh) - Minimalist static photoblog generator written in POSIX-compliant shell script (2 days ago)
 - [hackerb9/lsix](https://github.com/hackerb9/lsix) - Like &#34;ls&#34;, but for images. Shows thumbnails in terminal using sixel graphics. (3 days ago)
 - [rio-labs/rio](https://github.com/rio-labs/rio) - WebApps in pure Python. No JavaScript, HTML and CSS needed (3 days ago)
 - [AccentDesign/gcss](https://github.com/AccentDesign/gcss) - CSS written in Pure Go (5 days ago)
-- [Stebalien/horrorshow-rs](https://github.com/Stebalien/horrorshow-rs) - A macro-based html builder for rust (5 days ago)
