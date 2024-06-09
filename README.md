@@ -7,7 +7,7 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### 🔨 Latest Pull Requests I published
 
-- [feat(cvEntry): add url to link to ~company~ society](https://github.com/mintyfrankie/brilliant-CV-Submodule/pull/27) on [mintyfrankie/brilliant-CV-Submodule](https://github.com/mintyfrankie/brilliant-CV-Submodule) (3 days ago)
+- [feat(cvEntry): add url to link to ~company~ society](https://github.com/mintyfrankie/brilliant-CV-Submodule/pull/27) on [mintyfrankie/brilliant-CV-Submodule](https://github.com/mintyfrankie/brilliant-CV-Submodule) (4 days ago)
 - [[instagram] default posts `like_count` to zero](https://github.com/mikf/gallery-dl/pull/5323) on [mikf/gallery-dl](https://github.com/mikf/gallery-dl) (2 months ago)
 - [[instagram] Don&#39;t check private status for *.../YOU/following*](https://github.com/mikf/gallery-dl/pull/5322) on [mikf/gallery-dl](https://github.com/mikf/gallery-dl) (2 months ago)
 - [Allow users to set their own accent color by passing in a color object](https://github.com/mintyfrankie/brilliant-CV-Submodule/pull/10) on [mintyfrankie/brilliant-CV-Submodule](https://github.com/mintyfrankie/brilliant-CV-Submodule) (8 months ago)
@@ -23,8 +23,8 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
-- [andersju/1600pr.sh](https://github.com/andersju/1600pr.sh) - Minimalist static photoblog generator written in POSIX-compliant shell script (1 day ago)
-- [hackerb9/lsix](https://github.com/hackerb9/lsix) - Like &#34;ls&#34;, but for images. Shows thumbnails in terminal using sixel graphics. (2 days ago)
-- [rio-labs/rio](https://github.com/rio-labs/rio) - WebApps in pure Python. No JavaScript, HTML and CSS needed (2 days ago)
-- [AccentDesign/gcss](https://github.com/AccentDesign/gcss) - CSS written in Pure Go (4 days ago)
-- [Stebalien/horrorshow-rs](https://github.com/Stebalien/horrorshow-rs) - A macro-based html builder for rust (4 days ago)
+- [andersju/1600pr.sh](https://github.com/andersju/1600pr.sh) - Minimalist static photoblog generator written in POSIX-compliant shell script (2 days ago)
+- [hackerb9/lsix](https://github.com/hackerb9/lsix) - Like &#34;ls&#34;, but for images. Shows thumbnails in terminal using sixel graphics. (3 days ago)
+- [rio-labs/rio](https://github.com/rio-labs/rio) - WebApps in pure Python. No JavaScript, HTML and CSS needed (3 days ago)
+- [AccentDesign/gcss](https://github.com/AccentDesign/gcss) - CSS written in Pure Go (5 days ago)
+- [Stebalien/horrorshow-rs](https://github.com/Stebalien/horrorshow-rs) - A macro-based html builder for rust (5 days ago)
