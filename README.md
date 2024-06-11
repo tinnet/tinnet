@@ -23,8 +23,8 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
+- [huandu/xstrings](https://github.com/huandu/xstrings) - Implements string functions widely used in other languages but absent in Go. (today)
 - [danvergara/dblab](https://github.com/danvergara/dblab) - The database client every command line junkie deserves. (today)
 - [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you&#39;ve ever seen. Piku allows you to do git push deployments to your own servers. (2 days ago)
 - [andersju/1600pr.sh](https://github.com/andersju/1600pr.sh) - Minimalist static photoblog generator written in POSIX-compliant shell script (4 days ago)
 - [hackerb9/lsix](https://github.com/hackerb9/lsix) - Like &#34;ls&#34;, but for images. Shows thumbnails in terminal using sixel graphics. (5 days ago)
-- [rio-labs/rio](https://github.com/rio-labs/rio) - WebApps in pure Python. No JavaScript, HTML and CSS needed (5 days ago)
