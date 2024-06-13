@@ -23,8 +23,8 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
-- [jskherman/imprecv](https://github.com/jskherman/imprecv) - A no-frills curriculum vitae (CV) template using Typst and YAML to version control CV data. (1 day ago)
-- [mintyfrankie/brilliant-CV](https://github.com/mintyfrankie/brilliant-CV) - 💼 another CV template for your job application, yet powered by Typst and more (1 day ago)
-- [UntimelyCreation/typst-neat-cv](https://github.com/UntimelyCreation/typst-neat-cv) - A set of templates to produce modern, minimal and elegant CVs and cover letters using Typst. (1 day ago)
-- [peterpf/modern-typst-resume](https://github.com/peterpf/modern-typst-resume) - A modern typst resume template (1 day ago)
-- [huandu/xstrings](https://github.com/huandu/xstrings) - Implements string functions widely used in other languages but absent in Go. (1 day ago)
+- [jskherman/imprecv](https://github.com/jskherman/imprecv) - A no-frills curriculum vitae (CV) template using Typst and YAML to version control CV data. (2 days ago)
+- [mintyfrankie/brilliant-CV](https://github.com/mintyfrankie/brilliant-CV) - 💼 another CV template for your job application, yet powered by Typst and more (2 days ago)
+- [UntimelyCreation/typst-neat-cv](https://github.com/UntimelyCreation/typst-neat-cv) - A set of templates to produce modern, minimal and elegant CVs and cover letters using Typst. (2 days ago)
+- [peterpf/modern-typst-resume](https://github.com/peterpf/modern-typst-resume) - A modern typst resume template (2 days ago)
+- [huandu/xstrings](https://github.com/huandu/xstrings) - Implements string functions widely used in other languages but absent in Go. (2 days ago)
