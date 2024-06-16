@@ -23,8 +23,8 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
+- [shell-pool/shpool](https://github.com/shell-pool/shpool) - Think tmux, then aim... lower (today)
+- [resque/redis-namespace](https://github.com/resque/redis-namespace) - This gem adds a Redis::Namespace class which can be used to namespace Redis keys. (today)
+- [SongStitch/anchor](https://github.com/SongStitch/anchor) - A tool for anchoring dependencies in dockerfiles (today)
+- [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. (today)
 - [NVIDIA/warp](https://github.com/NVIDIA/warp) - A Python framework for high performance GPU simulation and graphics (2 days ago)
-- [naver/fixture-monkey](https://github.com/naver/fixture-monkey) - Let Fixture Monkey generate test instances including edge cases automatically (3 days ago)
-- [jskherman/imprecv](https://github.com/jskherman/imprecv) - A no-frills curriculum vitae (CV) template using Typst and YAML to version control CV data. (5 days ago)
-- [mintyfrankie/brilliant-CV](https://github.com/mintyfrankie/brilliant-CV) - 💼 another CV template for your job application, yet powered by Typst and more (5 days ago)
-- [UntimelyCreation/typst-neat-cv](https://github.com/UntimelyCreation/typst-neat-cv) - A set of templates to produce modern, minimal and elegant CVs and cover letters using Typst. (5 days ago)
