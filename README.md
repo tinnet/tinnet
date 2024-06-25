@@ -23,8 +23,8 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
+- [thoughtbot/superglue](https://github.com/thoughtbot/superglue) - A productive library for Classic Rails, React and Redux (today)
+- [Casecommons/pg_search](https://github.com/Casecommons/pg_search) - pg_search builds ActiveRecord named scopes that take advantage of PostgreSQL’s full text search  (today)
+- [markets/awesome-ruby](https://github.com/markets/awesome-ruby) - 💎 A collection of awesome Ruby libraries, tools, frameworks and software (today)
 - [github-community-projects/graphql-client](https://github.com/github-community-projects/graphql-client) - A Ruby library for declaring, composing and executing GraphQL queries (2 days ago)
 - [cargo-bins/cargo-binstall](https://github.com/cargo-bins/cargo-binstall) - Binary installation for rust projects (2 days ago)
-- [kaedroho/django-render](https://github.com/kaedroho/django-render) - Build fast, user-friendly applications with Django and React (5 days ago)
-- [dr5hn/countries-states-cities-database](https://github.com/dr5hn/countries-states-cities-database) - 🌍 Discover our global repository of countries, states, and cities!  🏙️ Get comprehensive data in JSON, SQL, PSQL, XML, YAML, and CSV formats. Access ISO2, ISO3 codes, country code, capital, native language, timezones (for countries), and more. #countries #states #cities (1 week ago)
-- [pioz/countries](https://github.com/pioz/countries) - All you need when you are working with countries in Go. (1 week ago)
