@@ -23,7 +23,7 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
-- [kjk/edna](https://github.com/kjk/edna) - Note taking app / scratchpad for developers and power users (1 day ago)
+- [kjk/edna](https://github.com/kjk/edna) - Note taking app for developers and power users (1 day ago)
 - [thoughtbot/superglue](https://github.com/thoughtbot/superglue) - A productive library for Classic Rails, React and Redux (1 week ago)
 - [Casecommons/pg_search](https://github.com/Casecommons/pg_search) - pg_search builds ActiveRecord named scopes that take advantage of PostgreSQL’s full text search  (1 week ago)
 - [markets/awesome-ruby](https://github.com/markets/awesome-ruby) - 💎 A collection of awesome Ruby libraries, tools, frameworks and software (1 week ago)
