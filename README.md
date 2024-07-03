@@ -7,7 +7,7 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### 🔨 Latest Pull Requests I published
 
-- [feat(cvEntry): add url to link to ~company~ society](https://github.com/mintyfrankie/brilliant-CV-Submodule/pull/27) on [mintyfrankie/brilliant-CV-Submodule](https://github.com/mintyfrankie/brilliant-CV-Submodule) (3 weeks ago)
+- [feat(cvEntry): add url to link to ~company~ society](https://github.com/mintyfrankie/brilliant-CV-Submodule/pull/27) on [mintyfrankie/brilliant-CV-Submodule](https://github.com/mintyfrankie/brilliant-CV-Submodule) (4 weeks ago)
 - [[instagram] default posts `like_count` to zero](https://github.com/mikf/gallery-dl/pull/5323) on [mikf/gallery-dl](https://github.com/mikf/gallery-dl) (3 months ago)
 - [[instagram] Don&#39;t check private status for *.../YOU/following*](https://github.com/mikf/gallery-dl/pull/5322) on [mikf/gallery-dl](https://github.com/mikf/gallery-dl) (3 months ago)
 - [Allow users to set their own accent color by passing in a color object](https://github.com/mintyfrankie/brilliant-CV-Submodule/pull/10) on [mintyfrankie/brilliant-CV-Submodule](https://github.com/mintyfrankie/brilliant-CV-Submodule) (9 months ago)
@@ -23,8 +23,8 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
-- [thomasborgen/hypermedia](https://github.com/thomasborgen/hypermedia) - Composable HTML rendering in pure python with FastAPI and HTMX in mind (today)
-- [sponsfreixes/jinja2-fragments](https://github.com/sponsfreixes/jinja2-fragments) - Render Jinja2 template block as HTML page fragments on Python web frameworks. (today)
-- [vslavik/diff-pdf](https://github.com/vslavik/diff-pdf) - A simple tool for visually comparing two PDF files (today)
-- [kjk/edna](https://github.com/kjk/edna) - Note taking app for developers and power users (1 day ago)
+- [thomasborgen/hypermedia](https://github.com/thomasborgen/hypermedia) - Composable HTML rendering in pure python with FastAPI and HTMX in mind (1 day ago)
+- [sponsfreixes/jinja2-fragments](https://github.com/sponsfreixes/jinja2-fragments) - Render Jinja2 template block as HTML page fragments on Python web frameworks. (1 day ago)
+- [vslavik/diff-pdf](https://github.com/vslavik/diff-pdf) - A simple tool for visually comparing two PDF files (1 day ago)
+- [kjk/edna](https://github.com/kjk/edna) - Note taking app for developers and power users (2 days ago)
 - [thoughtbot/superglue](https://github.com/thoughtbot/superglue) - A productive library for Classic Rails, React and Redux (1 week ago)
