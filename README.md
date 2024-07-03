@@ -23,8 +23,8 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
+- [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing (today)
 - [thomasborgen/hypermedia](https://github.com/thomasborgen/hypermedia) - Composable HTML rendering in pure python with FastAPI and HTMX in mind (1 day ago)
 - [sponsfreixes/jinja2-fragments](https://github.com/sponsfreixes/jinja2-fragments) - Render Jinja2 template block as HTML page fragments on Python web frameworks. (1 day ago)
 - [vslavik/diff-pdf](https://github.com/vslavik/diff-pdf) - A simple tool for visually comparing two PDF files (1 day ago)
 - [kjk/edna](https://github.com/kjk/edna) - Note taking app for developers and power users (2 days ago)
-- [thoughtbot/superglue](https://github.com/thoughtbot/superglue) - A productive library for Classic Rails, React and Redux (1 week ago)
