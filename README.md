@@ -7,7 +7,7 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### 🔨 Latest Pull Requests I published
 
-- [feat(cvEntry): add url to link to ~company~ society](https://github.com/mintyfrankie/brilliant-CV-Submodule/pull/27) on [mintyfrankie/brilliant-CV-Submodule](https://github.com/mintyfrankie/brilliant-CV-Submodule) (4 weeks ago)
+- [feat(cvEntry): add url to link to ~company~ society](https://github.com/mintyfrankie/brilliant-CV-Submodule/pull/27) on [mintyfrankie/brilliant-CV-Submodule](https://github.com/mintyfrankie/brilliant-CV-Submodule) (1 month ago)
 - [[instagram] default posts `like_count` to zero](https://github.com/mikf/gallery-dl/pull/5323) on [mikf/gallery-dl](https://github.com/mikf/gallery-dl) (3 months ago)
 - [[instagram] Don&#39;t check private status for *.../YOU/following*](https://github.com/mikf/gallery-dl/pull/5322) on [mikf/gallery-dl](https://github.com/mikf/gallery-dl) (3 months ago)
 - [Allow users to set their own accent color by passing in a color object](https://github.com/mintyfrankie/brilliant-CV-Submodule/pull/10) on [mintyfrankie/brilliant-CV-Submodule](https://github.com/mintyfrankie/brilliant-CV-Submodule) (9 months ago)
@@ -23,8 +23,8 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
-- [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API. (1 day ago)
-- [adithya-s-k/omniparse](https://github.com/adithya-s-k/omniparse) - Ingest, parse, and optimize any data format ➡️ from documents to multimedia ➡️ for enhanced compatibility with GenAI frameworks (1 day ago)
-- [ogham/dog](https://github.com/ogham/dog) - A command-line DNS client. (1 day ago)
-- [mr-karan/doggo](https://github.com/mr-karan/doggo) - :dog: Command-line DNS Client for Humans. Written in Golang (1 day ago)
-- [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing (1 day ago)
+- [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API. (2 days ago)
+- [adithya-s-k/omniparse](https://github.com/adithya-s-k/omniparse) - Ingest, parse, and optimize any data format ➡️ from documents to multimedia ➡️ for enhanced compatibility with GenAI frameworks (2 days ago)
+- [ogham/dog](https://github.com/ogham/dog) - A command-line DNS client. (2 days ago)
+- [mr-karan/doggo](https://github.com/mr-karan/doggo) - :dog: Command-line DNS Client for Humans. Written in Golang (2 days ago)
+- [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing (2 days ago)
