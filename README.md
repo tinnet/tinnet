@@ -23,8 +23,8 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
-- [micke/valid_email2](https://github.com/micke/valid_email2) - ActiveModel validation for email. Including MX lookup and disposable email blacklist (today)
-- [Osiris-Team/1JPM](https://github.com/Osiris-Team/1JPM) - 1 Java Project Manager, is a Maven/Gradle alternative with a twist. Its a single Java file itself, which should be edited by you to configure your project. (1 day ago)
-- [thoughtbot/shoulda-matchers](https://github.com/thoughtbot/shoulda-matchers) - Simple one-liner tests for common Rails functionality (2 days ago)
-- [active-hash/active_hash](https://github.com/active-hash/active_hash) - A readonly ActiveRecord-esque base class that lets you use a hash, a Yaml file or a custom file as the datasource (2 days ago)
-- [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API. (1 week ago)
+- [emareg/classlesscss](https://github.com/emareg/classlesscss) - CSS with few but great styles for basic HTML5 tags (1 day ago)
+- [micke/valid_email2](https://github.com/micke/valid_email2) - ActiveModel validation for email. Including MX lookup and disposable email blacklist (1 day ago)
+- [Osiris-Team/1JPM](https://github.com/Osiris-Team/1JPM) - 1 Java Project Manager, is a Maven/Gradle alternative with a twist. Its a single Java file itself, which should be edited by you to configure your project. (2 days ago)
+- [thoughtbot/shoulda-matchers](https://github.com/thoughtbot/shoulda-matchers) - Simple one-liner tests for common Rails functionality (3 days ago)
+- [active-hash/active_hash](https://github.com/active-hash/active_hash) - A readonly ActiveRecord-esque base class that lets you use a hash, a Yaml file or a custom file as the datasource (3 days ago)
