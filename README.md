@@ -23,8 +23,8 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
-- [Shopify/worldwide](https://github.com/Shopify/worldwide) - A gem to assist with the internationalization and localization of ruby code (today)
-- [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable (4 days ago)
-- [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal. (6 days ago)
+- [Shopify/worldwide](https://github.com/Shopify/worldwide) - A gem to assist with the internationalization and localization of ruby code (1 day ago)
+- [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable (5 days ago)
+- [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal. (1 week ago)
 - [ariebovenberg/whenever](https://github.com/ariebovenberg/whenever) - ⏰ Modern datetime library for Python, written in Rust (1 week ago)
 - [maelstrom-software/maelstrom](https://github.com/maelstrom-software/maelstrom) - Maelstrom is a fast Rust and Python test runner that runs every test in its own container. Tests are either run locally or distributed to a clustered job runner. (1 week ago)
