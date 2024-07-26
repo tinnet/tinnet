@@ -23,8 +23,8 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
+- [igrek51/wat](https://github.com/igrek51/wat) - Deep inspection of Python objects (today)
 - [abhinav/git-spice](https://github.com/abhinav/git-spice) - Manage stacked Git branches (3 days ago)
 - [BurntSushi/jiff](https://github.com/BurntSushi/jiff) - A date-time library for Rust that encourages you to jump into the pit of success. (4 days ago)
 - [Shopify/worldwide](https://github.com/Shopify/worldwide) - A gem to assist with the internationalization and localization of ruby code (5 days ago)
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable (1 week ago)
-- [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal. (1 week ago)
