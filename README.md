@@ -23,8 +23,8 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
-- [sirupsen/napkin-math](https://github.com/sirupsen/napkin-math) - Techniques and numbers for estimating system&#39;s performance from first-principles (today)
-- [igrek51/wat](https://github.com/igrek51/wat) - Deep inspection of Python objects (1 day ago)
-- [abhinav/git-spice](https://github.com/abhinav/git-spice) - Manage stacked Git branches (4 days ago)
-- [BurntSushi/jiff](https://github.com/BurntSushi/jiff) - A date-time library for Rust that encourages you to jump into the pit of success. (5 days ago)
-- [Shopify/worldwide](https://github.com/Shopify/worldwide) - A gem to assist with the internationalization and localization of ruby code (6 days ago)
+- [sirupsen/napkin-math](https://github.com/sirupsen/napkin-math) - Techniques and numbers for estimating system&#39;s performance from first-principles (1 day ago)
+- [igrek51/wat](https://github.com/igrek51/wat) - Deep inspection of Python objects (2 days ago)
+- [abhinav/git-spice](https://github.com/abhinav/git-spice) - Manage stacked Git branches (5 days ago)
+- [BurntSushi/jiff](https://github.com/BurntSushi/jiff) - A date-time library for Rust that encourages you to jump into the pit of success. (6 days ago)
+- [Shopify/worldwide](https://github.com/Shopify/worldwide) - A gem to assist with the internationalization and localization of ruby code (1 week ago)
