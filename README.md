@@ -23,8 +23,8 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
+- [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers (today)
 - [simplesurance/baur](https://github.com/simplesurance/baur) - An incremental task runner for mono repositories. (2 days ago)
 - [sirupsen/napkin-math](https://github.com/sirupsen/napkin-math) - Techniques and numbers for estimating system&#39;s performance from first-principles (5 days ago)
 - [igrek51/wat](https://github.com/igrek51/wat) - Deep inspection of Python objects (6 days ago)
 - [abhinav/git-spice](https://github.com/abhinav/git-spice) - Manage stacked Git branches (1 week ago)
-- [BurntSushi/jiff](https://github.com/BurntSushi/jiff) - A date-time library for Rust that encourages you to jump into the pit of success. (1 week ago)
