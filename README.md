@@ -23,8 +23,8 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
+- [InterviewReady/Low-Level-Design](https://github.com/InterviewReady/Low-Level-Design) - Low Level Designs of common data structures. These designs keep concurrency control, latency and throughput in mind. We use design patterns where applicable to make the code readable, extensible and testable. (today)
 - [AnsgarLichter/light-cv](https://github.com/AnsgarLichter/light-cv) - CV template written in typst. (2 days ago)
 - [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers (1 week ago)
 - [simplesurance/baur](https://github.com/simplesurance/baur) - An incremental task runner for mono repositories. (1 week ago)
 - [sirupsen/napkin-math](https://github.com/sirupsen/napkin-math) - Techniques and numbers for estimating system&#39;s performance from first-principles (2 weeks ago)
-- [igrek51/wat](https://github.com/igrek51/wat) - Deep inspection of Python objects (2 weeks ago)
