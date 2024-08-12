@@ -23,8 +23,8 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
+- [rust-lang/futures-rs](https://github.com/rust-lang/futures-rs) - Zero-cost asynchronous programming in Rust (today)
 - [caarlos0/env](https://github.com/caarlos0/env) - A simple, zero-dependencies library to parse environment variables into structs (1 day ago)
 - [riverqueue/river](https://github.com/riverqueue/river) - Fast and reliable background jobs in Go (1 day ago)
 - [InterviewReady/Low-Level-Design](https://github.com/InterviewReady/Low-Level-Design) - Low Level Designs of common data structures. These designs keep concurrency control, latency and throughput in mind. We use design patterns where applicable to make the code readable, extensible and testable. (2 days ago)
 - [AnsgarLichter/light-cv](https://github.com/AnsgarLichter/light-cv) - CV template written in typst. (4 days ago)
-- [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers (1 week ago)
