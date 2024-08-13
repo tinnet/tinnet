@@ -23,8 +23,8 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
+- [air-verse/air](https://github.com/air-verse/air) - ☁️ Live reload for Go apps (today)
 - [Owez/yark](https://github.com/Owez/yark) - YouTube archiving made simple. (1 day ago)
 - [pages-cms/pages-cms](https://github.com/pages-cms/pages-cms) - A user-friendly CMS for static site generators. (1 day ago)
 - [rust-lang/futures-rs](https://github.com/rust-lang/futures-rs) - Zero-cost asynchronous programming in Rust (1 day ago)
 - [caarlos0/env](https://github.com/caarlos0/env) - A simple, zero-dependencies library to parse environment variables into structs (2 days ago)
-- [riverqueue/river](https://github.com/riverqueue/river) - Fast and reliable background jobs in Go (2 days ago)
