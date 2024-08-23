@@ -23,8 +23,8 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
+- [lopcode/vips-ffm](https://github.com/lopcode/vips-ffm) - libvips bindings for JVM projects, using JDK 22&#39;s FFM and Class-File APIs, for performant, safe, and ergonomic image manipulation (today)
 - [instantdb/instant](https://github.com/instantdb/instant) - The realtime client-side database (1 day ago)
 - [temporalio/temporal-jumpstart-java](https://github.com/temporalio/temporal-jumpstart-java) - Some repos Start. This one Jump Starts. (1 day ago)
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA. (2 days ago)
 - [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package. (5 days ago)
-- [rusq/slackdump](https://github.com/rusq/slackdump) - Save or export your private and public Slack messages, threads, files, and users locally without admin privileges. (5 days ago)
