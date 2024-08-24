@@ -23,8 +23,8 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
+- [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 An async &amp; dynamic ORM for Rust (today)
 - [lopcode/vips-ffm](https://github.com/lopcode/vips-ffm) - libvips bindings for JVM projects, using JDK 22&#39;s FFM and Class-File APIs, for performant, safe, and ergonomic image manipulation (1 day ago)
 - [instantdb/instant](https://github.com/instantdb/instant) - The realtime client-side database (2 days ago)
 - [temporalio/temporal-jumpstart-java](https://github.com/temporalio/temporal-jumpstart-java) - Some repos Start. This one Jump Starts. (2 days ago)
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA. (3 days ago)
-- [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package. (6 days ago)
