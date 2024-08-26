@@ -23,8 +23,8 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
-- [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 An async &amp; dynamic ORM for Rust (1 day ago)
-- [lopcode/vips-ffm](https://github.com/lopcode/vips-ffm) - libvips bindings for JVM projects, using JDK 22&#39;s FFM and Class-File APIs, for performant, safe, and ergonomic image manipulation (2 days ago)
-- [instantdb/instant](https://github.com/instantdb/instant) - The realtime client-side database (3 days ago)
-- [temporalio/temporal-jumpstart-java](https://github.com/temporalio/temporal-jumpstart-java) - Some repos Start. This one Jump Starts. (3 days ago)
-- [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA. (4 days ago)
+- [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 An async &amp; dynamic ORM for Rust (2 days ago)
+- [lopcode/vips-ffm](https://github.com/lopcode/vips-ffm) - libvips bindings for JVM projects, using JDK 22&#39;s FFM and Class-File APIs, for performant, safe, and ergonomic image manipulation (3 days ago)
+- [instantdb/instant](https://github.com/instantdb/instant) - The realtime client-side database (4 days ago)
+- [temporalio/temporal-jumpstart-java](https://github.com/temporalio/temporal-jumpstart-java) - Some repos Start. This one Jump Starts. (4 days ago)
+- [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA. (5 days ago)
