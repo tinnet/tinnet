@@ -23,8 +23,8 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
+- [ryanseys/claude-dev](https://github.com/ryanseys/claude-dev) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, and more with your permission every step of the way. (today)
 - [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 An async &amp; dynamic ORM for Rust (3 days ago)
 - [lopcode/vips-ffm](https://github.com/lopcode/vips-ffm) - libvips bindings for JVM projects, using JDK 22&#39;s FFM and Class-File APIs, for performant, safe, and ergonomic image manipulation (4 days ago)
 - [instantdb/instant](https://github.com/instantdb/instant) - The realtime client-side database (5 days ago)
 - [temporalio/temporal-jumpstart-java](https://github.com/temporalio/temporal-jumpstart-java) - Some repos Start. This one Jump Starts. (5 days ago)
-- [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA. (6 days ago)
