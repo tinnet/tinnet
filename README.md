@@ -23,8 +23,8 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
+- [aziis98/mup](https://github.com/aziis98/mup) - A micro file uploader written in Go to easily share files over LAN (today)
+- [wrabit/django-cotton](https://github.com/wrabit/django-cotton) - Bringing component based design to Django templates (today)
 - [sjpiper145/MakerSkillTree](https://github.com/sjpiper145/MakerSkillTree) - A repository of Maker Skill Trees and templates to make your own.   (today)
 - [Shopify/toxiproxy](https://github.com/Shopify/toxiproxy) - :alarm_clock: :fire: A TCP proxy to simulate network and system conditions for chaos and resiliency testing (1 day ago)
 - [asg017/sqlite-vec](https://github.com/asg017/sqlite-vec) - A vector search SQLite extension that runs anywhere! (2 days ago)
-- [bufbuild/buf](https://github.com/bufbuild/buf) - The best way of working with Protocol Buffers. (2 days ago)
-- [ryanseys/claude-dev](https://github.com/ryanseys/claude-dev) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, and more with your permission every step of the way. (2 days ago)
