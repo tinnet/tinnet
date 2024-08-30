@@ -23,8 +23,8 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
-- [aziis98/mup](https://github.com/aziis98/mup) - A micro file uploader written in Go to easily share files over LAN (today)
-- [wrabit/django-cotton](https://github.com/wrabit/django-cotton) - Bringing component based design to Django templates (today)
-- [sjpiper145/MakerSkillTree](https://github.com/sjpiper145/MakerSkillTree) - A repository of Maker Skill Trees and templates to make your own.   (today)
-- [Shopify/toxiproxy](https://github.com/Shopify/toxiproxy) - :alarm_clock: :fire: A TCP proxy to simulate network and system conditions for chaos and resiliency testing (1 day ago)
-- [asg017/sqlite-vec](https://github.com/asg017/sqlite-vec) - A vector search SQLite extension that runs anywhere! (2 days ago)
+- [aziis98/mup](https://github.com/aziis98/mup) - A micro file uploader written in Go to easily share files over LAN (1 day ago)
+- [wrabit/django-cotton](https://github.com/wrabit/django-cotton) - Bringing component based design to Django templates (1 day ago)
+- [sjpiper145/MakerSkillTree](https://github.com/sjpiper145/MakerSkillTree) - A repository of Maker Skill Trees and templates to make your own.   (1 day ago)
+- [Shopify/toxiproxy](https://github.com/Shopify/toxiproxy) - :alarm_clock: :fire: A TCP proxy to simulate network and system conditions for chaos and resiliency testing (2 days ago)
+- [asg017/sqlite-vec](https://github.com/asg017/sqlite-vec) - A vector search SQLite extension that runs anywhere! (3 days ago)
