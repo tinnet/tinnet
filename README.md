@@ -23,8 +23,8 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
-- [rife2/bld](https://github.com/rife2/bld) - Pure java build tool for developers who don&#39;t like dealing with build tools (today)
-- [softwaremill/jox](https://github.com/softwaremill/jox) - Fast and Scalable Channels in Java (today)
-- [jspecify/jspecify](https://github.com/jspecify/jspecify) - An artifact of fully-specified annotations to power static-analysis checks, beginning with nullness analysis. (today)
-- [aziis98/mup](https://github.com/aziis98/mup) - A micro file uploader written in Go to easily share files over LAN (1 day ago)
-- [wrabit/django-cotton](https://github.com/wrabit/django-cotton) - Bringing component based design to Django templates (1 day ago)
+- [rife2/bld](https://github.com/rife2/bld) - Pure java build tool for developers who don&#39;t like dealing with build tools (1 day ago)
+- [softwaremill/jox](https://github.com/softwaremill/jox) - Fast and Scalable Channels in Java (1 day ago)
+- [jspecify/jspecify](https://github.com/jspecify/jspecify) - An artifact of fully-specified annotations to power static-analysis checks, beginning with nullness analysis. (1 day ago)
+- [aziis98/mup](https://github.com/aziis98/mup) - A micro file uploader written in Go to easily share files over LAN (2 days ago)
+- [wrabit/django-cotton](https://github.com/wrabit/django-cotton) - Bringing component based design to Django templates (2 days ago)
