@@ -23,8 +23,8 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
-- [rkrage/pg_party](https://github.com/rkrage/pg_party) - ActiveRecord PostgreSQL Partitioning (today)
-- [palkan/isolator](https://github.com/palkan/isolator) - Detect non-atomic interactions within DB transactions (today)
-- [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon) - An open-source RAG-based tool for chatting with your documents. (today)
-- [rife2/bld](https://github.com/rife2/bld) - Pure java build tool for developers who don&#39;t like dealing with build tools (1 day ago)
-- [softwaremill/jox](https://github.com/softwaremill/jox) - Fast and Scalable Channels in Java (1 day ago)
+- [rkrage/pg_party](https://github.com/rkrage/pg_party) - ActiveRecord PostgreSQL Partitioning (1 day ago)
+- [palkan/isolator](https://github.com/palkan/isolator) - Detect non-atomic interactions within DB transactions (1 day ago)
+- [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon) - An open-source RAG-based tool for chatting with your documents. (1 day ago)
+- [rife2/bld](https://github.com/rife2/bld) - Pure java build tool for developers who don&#39;t like dealing with build tools (2 days ago)
+- [softwaremill/jox](https://github.com/softwaremill/jox) - Fast and Scalable Channels in Java (2 days ago)
