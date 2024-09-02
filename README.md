@@ -23,8 +23,8 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
+- [mitsuhiko/minijinja](https://github.com/mitsuhiko/minijinja) - MiniJinja is a powerful but minimal dependency template engine for Rust compatible with Jinja/Jinja2 (today)
+- [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust. (today)
+- [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay). (today)
+- [mihxil/i18n-regions](https://github.com/mihxil/i18n-regions) - Provides an interface for geographical regions. Using nv-i18n for country codes. Also supports user assigned countries, and other types of geographical regions. (today)
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text. (1 day ago)
-- [rkrage/pg_party](https://github.com/rkrage/pg_party) - ActiveRecord PostgreSQL Partitioning (2 days ago)
-- [palkan/isolator](https://github.com/palkan/isolator) - Detect non-atomic interactions within DB transactions (2 days ago)
-- [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon) - An open-source RAG-based tool for chatting with your documents. (2 days ago)
-- [rife2/bld](https://github.com/rife2/bld) - Pure java build tool for developers who don&#39;t like dealing with build tools (3 days ago)
