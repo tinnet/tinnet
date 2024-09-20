@@ -23,8 +23,8 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
-- [MashDevel/Dopus](https://github.com/MashDevel/Dopus) - Minimal building blocks for agentic applications (today)
-- [pencilresearch/OpenScanner](https://github.com/pencilresearch/OpenScanner) - Fast, reliable, and free document scanner app for iPhone (1 day ago)
-- [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all) - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc. (1 day ago)
-- [rkyv/rkyv](https://github.com/rkyv/rkyv) - Zero-copy deserialization framework for Rust (4 days ago)
-- [cgriego/active_attr](https://github.com/cgriego/active_attr) - What ActiveModel left out (4 days ago)
+- [MashDevel/Dopus](https://github.com/MashDevel/Dopus) - Minimal building blocks for agentic applications (1 day ago)
+- [pencilresearch/OpenScanner](https://github.com/pencilresearch/OpenScanner) - Fast, reliable, and free document scanner app for iPhone (2 days ago)
+- [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all) - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc. (2 days ago)
+- [rkyv/rkyv](https://github.com/rkyv/rkyv) - Zero-copy deserialization framework for Rust (5 days ago)
+- [cgriego/active_attr](https://github.com/cgriego/active_attr) - What ActiveModel left out (5 days ago)
