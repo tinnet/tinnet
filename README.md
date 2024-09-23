@@ -23,8 +23,8 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
-- [dataddo/pgq](https://github.com/dataddo/pgq) - Go queue implementation using postgres. (today)
-- [KruxAI/ragbuilder](https://github.com/KruxAI/ragbuilder) - A toolkit to create optimal Production-ready RAG setup for your data (today)
-- [MashDevel/Dopus](https://github.com/MashDevel/Dopus) - A lightweight tool-first framework for AI agent application development (3 days ago)
-- [pencilresearch/OpenScanner](https://github.com/pencilresearch/OpenScanner) - Fast, reliable, and free document scanner app for iPhone (4 days ago)
-- [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all) - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc. (4 days ago)
+- [dataddo/pgq](https://github.com/dataddo/pgq) - Go queue implementation using postgres. (1 day ago)
+- [KruxAI/ragbuilder](https://github.com/KruxAI/ragbuilder) - A toolkit to create optimal Production-ready RAG setup for your data (1 day ago)
+- [MashDevel/Dopus](https://github.com/MashDevel/Dopus) - A lightweight tool-first framework for AI agent application development (4 days ago)
+- [pencilresearch/OpenScanner](https://github.com/pencilresearch/OpenScanner) - Fast, reliable, and free document scanner app for iPhone (5 days ago)
+- [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all) - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc. (5 days ago)
