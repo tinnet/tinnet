@@ -23,8 +23,8 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
-- [radiac/nanodjango](https://github.com/radiac/nanodjango) - Full Django in a single file - views, models, API ,with async support. Automatically convert it to a full project. (today)
-- [xataio/pgroll](https://github.com/xataio/pgroll) - PostgreSQL zero-downtime migrations made easy (1 day ago)
-- [dataddo/pgq](https://github.com/dataddo/pgq) - Go queue implementation using postgres. (3 days ago)
-- [KruxAI/ragbuilder](https://github.com/KruxAI/ragbuilder) - A toolkit to create optimal Production-ready RAG setup for your data (3 days ago)
-- [MashDevel/Dopus](https://github.com/MashDevel/Dopus) - A lightweight tool-first framework for AI agent application development (6 days ago)
+- [radiac/nanodjango](https://github.com/radiac/nanodjango) - Full Django in a single file - views, models, API ,with async support. Automatically convert it to a full project. (1 day ago)
+- [xataio/pgroll](https://github.com/xataio/pgroll) - PostgreSQL zero-downtime migrations made easy (2 days ago)
+- [dataddo/pgq](https://github.com/dataddo/pgq) - Go queue implementation using postgres. (4 days ago)
+- [KruxAI/ragbuilder](https://github.com/KruxAI/ragbuilder) - A toolkit to create optimal Production-ready RAG setup for your data (4 days ago)
+- [MashDevel/Dopus](https://github.com/MashDevel/Dopus) - A lightweight tool-first framework for AI agent application development (1 week ago)
