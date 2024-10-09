@@ -23,8 +23,8 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
-- [eriksencosta/money](https://github.com/eriksencosta/money) - Monetary calculations and allocations made easy (today)
+- [eriksencosta/money](https://github.com/eriksencosta/money) - Monetary calculations and allocations made easy (1 day ago)
 - [jreleaser/jreleaser](https://github.com/jreleaser/jreleaser) - :rocket: Release projects quickly and easily with JReleaser (1 week ago)
-- [radiac/nanodjango](https://github.com/radiac/nanodjango) - Full Django in a single file - views, models, API ,with async support. Automatically convert it to a full project. (1 week ago)
+- [radiac/nanodjango](https://github.com/radiac/nanodjango) - Full Django in a single file - views, models, API ,with async support. Automatically convert it to a full project. (2 weeks ago)
 - [xataio/pgroll](https://github.com/xataio/pgroll) - PostgreSQL zero-downtime migrations made easy (2 weeks ago)
 - [dataddo/pgq](https://github.com/dataddo/pgq) - Go queue implementation using postgres. (2 weeks ago)
