@@ -23,8 +23,8 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
-- [git-town/git-town](https://github.com/git-town/git-town) - Git branches made easy (1 day ago)
-- [AllenDang/giu](https://github.com/AllenDang/giu) - Cross platform rapid GUI framework for golang based on Dear ImGui. (1 day ago)
-- [eriksencosta/money](https://github.com/eriksencosta/money) - Monetary calculations and allocations made easy (2 days ago)
+- [loco-rs/loco](https://github.com/loco-rs/loco) - 🚂 🦀 The one-person framework for Rust for side-projects and startups (today)
+- [git-town/git-town](https://github.com/git-town/git-town) - Git branches made easy (2 days ago)
+- [AllenDang/giu](https://github.com/AllenDang/giu) - Cross platform rapid GUI framework for golang based on Dear ImGui. (2 days ago)
+- [eriksencosta/money](https://github.com/eriksencosta/money) - Monetary calculations and allocations made easy (3 days ago)
 - [jreleaser/jreleaser](https://github.com/jreleaser/jreleaser) - :rocket: Release projects quickly and easily with JReleaser (2 weeks ago)
-- [radiac/nanodjango](https://github.com/radiac/nanodjango) - Full Django in a single file - views, models, API ,with async support. Automatically convert it to a full project. (2 weeks ago)
