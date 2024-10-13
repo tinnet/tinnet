@@ -23,8 +23,8 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
-- [loco-rs/loco](https://github.com/loco-rs/loco) - 🚂 🦀 The one-person framework for Rust for side-projects and startups (1 day ago)
-- [git-town/git-town](https://github.com/git-town/git-town) - Git branches made easy (3 days ago)
-- [AllenDang/giu](https://github.com/AllenDang/giu) - Cross platform rapid GUI framework for golang based on Dear ImGui. (3 days ago)
-- [eriksencosta/money](https://github.com/eriksencosta/money) - Monetary calculations and allocations made easy (4 days ago)
+- [loco-rs/loco](https://github.com/loco-rs/loco) - 🚂 🦀 The one-person framework for Rust for side-projects and startups (2 days ago)
+- [git-town/git-town](https://github.com/git-town/git-town) - Git branches made easy (4 days ago)
+- [AllenDang/giu](https://github.com/AllenDang/giu) - Cross platform rapid GUI framework for golang based on Dear ImGui. (4 days ago)
+- [eriksencosta/money](https://github.com/eriksencosta/money) - Monetary calculations and allocations made easy (5 days ago)
 - [jreleaser/jreleaser](https://github.com/jreleaser/jreleaser) - :rocket: Release projects quickly and easily with JReleaser (2 weeks ago)
