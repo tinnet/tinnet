@@ -13,14 +13,6 @@ Always looking to get better at the tools I know or learn about new ones and how
 - [Allow users to set their own accent color by passing in a color object](https://github.com/mintyfrankie/brilliant-CV-Submodule/pull/10) on [mintyfrankie/brilliant-CV-Submodule](https://github.com/mintyfrankie/brilliant-CV-Submodule) (1 year ago)
 - [[RFC] Don&#39;t replace proxy with random port in AddOrReplace](https://github.com/Shopify/toxiproxy/pull/356) on [Shopify/toxiproxy](https://github.com/Shopify/toxiproxy) (2 years ago)
 
-#### 🌱 My latest projects
-
-- [tinnet/aoc2023-java](https://github.com/tinnet/aoc2023-java)
-- [tinnet/aoc2023-kotlin](https://github.com/tinnet/aoc2023-kotlin)
-- [tinnet/dotfiles](https://github.com/tinnet/dotfiles)
-- [tinnet/docker-nginx-s3proxy](https://github.com/tinnet/docker-nginx-s3proxy) - nginx based proxy for s3 - docker
-- [tinnet/java-uuid-validation-benchmark](https://github.com/tinnet/java-uuid-validation-benchmark) - microbenchmarking UUID validation regexes in Java
-
 #### ⭐ Recent Stars
 
 - [jbangdev/jbang](https://github.com/jbangdev/jbang) - Unleash the power of Java - JBang Lets Students, Educators and Professional Developers create, edit and run self-contained source-only Java programs with unprecedented ease. (today)
