@@ -10,11 +10,6 @@ Always looking to get better at the tools I know or learn about new ones and how
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
-#### 🌱 My latest projects
-{{range recentRepos 5}}
-- [{{.Name}}]({{.URL}}){{with .Description}} - {{.}}{{end}}
-{{- end}}
-
 #### ⭐ Recent Stars
 {{range recentStars 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
