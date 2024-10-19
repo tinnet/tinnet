@@ -15,8 +15,8 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
-- [rakyll/hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement (3 days ago)
-- [sideshowbarker/git-gloss](https://github.com/sideshowbarker/git-gloss) - ✨Makes your git logs show GitHub PR/issue/reviewer/author links (3 days ago)
-- [jbangdev/jbang](https://github.com/jbangdev/jbang) - Unleash the power of Java - JBang Lets Students, Educators and Professional Developers create, edit and run self-contained source-only Java programs with unprecedented ease. (5 days ago)
-- [mukel/llama3.java](https://github.com/mukel/llama3.java) - Practical Llama 3 inference in Java (5 days ago)
+- [rakyll/hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement (4 days ago)
+- [sideshowbarker/git-gloss](https://github.com/sideshowbarker/git-gloss) - ✨Makes your git logs show GitHub PR/issue/reviewer/author links (4 days ago)
+- [jbangdev/jbang](https://github.com/jbangdev/jbang) - Unleash the power of Java - JBang Lets Students, Educators and Professional Developers create, edit and run self-contained source-only Java programs with unprecedented ease. (6 days ago)
+- [mukel/llama3.java](https://github.com/mukel/llama3.java) - Practical Llama 3 inference in Java (6 days ago)
 - [loco-rs/loco](https://github.com/loco-rs/loco) - 🚂 🦀 The one-person framework for Rust for side-projects and startups (1 week ago)
