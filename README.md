@@ -15,8 +15,8 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
+- [molobrakos/volvooncall](https://github.com/molobrakos/volvooncall) - Retrieve information from the Volvo On Call (VOC) web service (today)
+- [Dielee/volvo2mqtt](https://github.com/Dielee/volvo2mqtt) - Home Assistant addon for connecting AAOS Volvos (today)
+- [Ixam97/CarStatsViewer](https://github.com/Ixam97/CarStatsViewer) -  (today)
+- [pypolestar/polestar_api](https://github.com/pypolestar/polestar_api) - Polestar API - Home Assistant Component (today)
 - [rakyll/hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement (4 days ago)
-- [sideshowbarker/git-gloss](https://github.com/sideshowbarker/git-gloss) - ✨Makes your git logs show GitHub PR/issue/reviewer/author links (4 days ago)
-- [jbangdev/jbang](https://github.com/jbangdev/jbang) - Unleash the power of Java - JBang Lets Students, Educators and Professional Developers create, edit and run self-contained source-only Java programs with unprecedented ease. (6 days ago)
-- [mukel/llama3.java](https://github.com/mukel/llama3.java) - Practical Llama 3 inference in Java (6 days ago)
-- [loco-rs/loco](https://github.com/loco-rs/loco) - 🚂 🦀 The one-person framework for Rust for side-projects and startups (1 week ago)
