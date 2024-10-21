@@ -15,8 +15,8 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
+- [devgianlu/go-librespot](https://github.com/devgianlu/go-librespot) - Yet another open source Spotify client, written in Go. (today)
 - [molobrakos/volvooncall](https://github.com/molobrakos/volvooncall) - Retrieve information from the Volvo On Call (VOC) web service (2 days ago)
 - [Dielee/volvo2mqtt](https://github.com/Dielee/volvo2mqtt) - Home Assistant addon for connecting AAOS Volvos (2 days ago)
 - [Ixam97/CarStatsViewer](https://github.com/Ixam97/CarStatsViewer) -  (2 days ago)
 - [pypolestar/polestar_api](https://github.com/pypolestar/polestar_api) - Polestar API - Home Assistant Component (2 days ago)
-- [rakyll/hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement (6 days ago)
