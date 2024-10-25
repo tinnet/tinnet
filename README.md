@@ -15,8 +15,8 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
+- [exadel-inc/CompreFace](https://github.com/exadel-inc/CompreFace) - Leading free and open-source face recognition system (today)
 - [hsa00000/Urocissa](https://github.com/hsa00000/Urocissa) - Urocissa is a self-hosted gallery designed to serve massive collections, capable of handling millions of images and videos. It is built using Rust and Vue. (4 days ago)
 - [devgianlu/go-librespot](https://github.com/devgianlu/go-librespot) - Yet another open source Spotify client, written in Go. (4 days ago)
 - [molobrakos/volvooncall](https://github.com/molobrakos/volvooncall) - Retrieve information from the Volvo On Call (VOC) web service (6 days ago)
 - [Dielee/volvo2mqtt](https://github.com/Dielee/volvo2mqtt) - Home Assistant addon for connecting AAOS Volvos (6 days ago)
-- [Ixam97/CarStatsViewer](https://github.com/Ixam97/CarStatsViewer) -  (6 days ago)
