@@ -15,8 +15,8 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
-- [ankane/logstop](https://github.com/ankane/logstop) - Keep personal data out of your logs (today)
-- [Saghen/blink.cmp](https://github.com/Saghen/blink.cmp) - Performant, batteries-included completion plugin for Neovim  (today)
-- [rails/globalid](https://github.com/rails/globalid) - Identify app models with a URI (today)
-- [shayonj/pg_flo](https://github.com/shayonj/pg_flo) - Stream, transform, and route PostgreSQL data in real-time. (today)
-- [jeromedalbert/rubocop-obsession](https://github.com/jeromedalbert/rubocop-obsession) - RuboCop extension focused on higher-level concepts, like checking that code reads from top to bottom (4 days ago)
+- [ankane/logstop](https://github.com/ankane/logstop) - Keep personal data out of your logs (1 day ago)
+- [Saghen/blink.cmp](https://github.com/Saghen/blink.cmp) - Performant, batteries-included completion plugin for Neovim  (1 day ago)
+- [rails/globalid](https://github.com/rails/globalid) - Identify app models with a URI (1 day ago)
+- [shayonj/pg_flo](https://github.com/shayonj/pg_flo) - Stream, transform, and route PostgreSQL data in real-time. (1 day ago)
+- [jeromedalbert/rubocop-obsession](https://github.com/jeromedalbert/rubocop-obsession) - RuboCop extension focused on higher-level concepts, like checking that code reads from top to bottom (5 days ago)
