@@ -15,8 +15,8 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
-- [openjdk/jmh](https://github.com/openjdk/jmh) - https://openjdk.org/projects/code-tools/jmh (1 day ago)
-- [melix/jmh-gradle-plugin](https://github.com/melix/jmh-gradle-plugin) - Integrates the JMH benchmarking framework with Gradle (1 day ago)
-- [almeidapaulopt/tsdproxy](https://github.com/almeidapaulopt/tsdproxy) - Tailscale Docker Proxy (6 days ago)
+- [openjdk/jmh](https://github.com/openjdk/jmh) - https://openjdk.org/projects/code-tools/jmh (2 days ago)
+- [melix/jmh-gradle-plugin](https://github.com/melix/jmh-gradle-plugin) - Integrates the JMH benchmarking framework with Gradle (2 days ago)
+- [almeidapaulopt/tsdproxy](https://github.com/almeidapaulopt/tsdproxy) - Tailscale Docker Proxy (1 week ago)
 - [jillesvangurp/kt-search](https://github.com/jillesvangurp/kt-search) - Multi platform kotlin client for Elasticsearch &amp; Opensearch with easily extendable Kotlin DSLs for queries, mappings, bulk, and more. (1 week ago)
 - [ankane/logstop](https://github.com/ankane/logstop) - Keep personal data out of your logs (2 weeks ago)
