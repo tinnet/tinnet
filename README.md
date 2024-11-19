@@ -15,8 +15,8 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
+- [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia &#43; Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences (today)
+- [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo. (today)
+- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow (today)
+- [oramasearch/orama](https://github.com/oramasearch/orama) - 🌌  A complete search engine and RAG pipeline in your browser, server or edge network with support for full-text, vector, and hybrid search in less than 2kb. (today)
 - [openjdk/jmh](https://github.com/openjdk/jmh) - https://openjdk.org/projects/code-tools/jmh (2 days ago)
-- [melix/jmh-gradle-plugin](https://github.com/melix/jmh-gradle-plugin) - Integrates the JMH benchmarking framework with Gradle (2 days ago)
-- [almeidapaulopt/tsdproxy](https://github.com/almeidapaulopt/tsdproxy) - Tailscale Docker Proxy (1 week ago)
-- [jillesvangurp/kt-search](https://github.com/jillesvangurp/kt-search) - Multi platform kotlin client for Elasticsearch &amp; Opensearch with easily extendable Kotlin DSLs for queries, mappings, bulk, and more. (1 week ago)
-- [ankane/logstop](https://github.com/ankane/logstop) - Keep personal data out of your logs (2 weeks ago)
