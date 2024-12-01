@@ -15,8 +15,8 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
-- [Jadarma/advent-of-code-kotlin](https://github.com/Jadarma/advent-of-code-kotlin) - A simple library that makes running and testing your Kotlin solutions to Advent of Code puzzles a breeze. (today)
-- [paralleldrive/cuid2](https://github.com/paralleldrive/cuid2) - Next generation guids. Secure, collision-resistant ids optimized for horizontal scaling and performance. (1 day ago)
-- [EnhancedJax/Bagels](https://github.com/EnhancedJax/Bagels) - Powerful expense tracker that lives in your terminal. (2 days ago)
+- [Jadarma/advent-of-code-kotlin](https://github.com/Jadarma/advent-of-code-kotlin) - A simple library that makes running and testing your Kotlin solutions to Advent of Code puzzles a breeze. (1 day ago)
+- [paralleldrive/cuid2](https://github.com/paralleldrive/cuid2) - Next generation guids. Secure, collision-resistant ids optimized for horizontal scaling and performance. (2 days ago)
+- [EnhancedJax/Bagels](https://github.com/EnhancedJax/Bagels) - Powerful expense tracker that lives in your terminal. (3 days ago)
 - [actuallymentor/battery](https://github.com/actuallymentor/battery) - CLI/GUI for managing the battery charging status for Apple silicon (M1, M32, M3) Macs (1 week ago)
 - [mhaeuser/Battery-Toolkit](https://github.com/mhaeuser/Battery-Toolkit) - Control the platform power state of your Apple Silicon Mac. (1 week ago)
