@@ -15,7 +15,7 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
-- [SeekStorm/SeekStorm](https://github.com/SeekStorm/SeekStorm) - SeekStorm - sub-millisecond full-text search library &amp; multi-tenancy server in Rust (4 days ago)
+- [SeekStorm/SeekStorm](https://github.com/SeekStorm/SeekStorm) - SeekStorm - sub-millisecond full-text search library &amp; multi-tenancy server in Rust (5 days ago)
 - [Jadarma/advent-of-code-kotlin](https://github.com/Jadarma/advent-of-code-kotlin) - A simple library that makes running and testing your Kotlin solutions to Advent of Code puzzles a breeze. (1 week ago)
 - [paralleldrive/cuid2](https://github.com/paralleldrive/cuid2) - Next generation guids. Secure, collision-resistant ids optimized for horizontal scaling and performance. (1 week ago)
 - [EnhancedJax/Bagels](https://github.com/EnhancedJax/Bagels) - Powerful expense tracker that lives in your terminal. (1 week ago)
