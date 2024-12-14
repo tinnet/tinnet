@@ -15,8 +15,8 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
+- [Dark-Alex-17/managarr](https://github.com/Dark-Alex-17/managarr) - A TUI and CLI for managing *arr servers. Built with 🤎 in Rust (today)
 - [jmattheis/goverter](https://github.com/jmattheis/goverter) - Generate type-safe Go converters by defining signatures of different types. (1 day ago)
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (1 day ago)
 - [emcie-co/parlant](https://github.com/emcie-co/parlant) - A structured approach to building and guiding customer-facing AI agents (1 day ago)
 - [cyclotruc/gitingest](https://github.com/cyclotruc/gitingest) - Turn codebases into prompt-friendly text (1 day ago)
-- [Rehike/Rehike](https://github.com/Rehike/Rehike) - A custom YouTube server that aims to faithfully restore the old frontend and layout. (6 days ago)
