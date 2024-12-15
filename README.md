@@ -15,8 +15,8 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
+- [apache/maven-hocon-extension](https://github.com/apache/maven-hocon-extension) - Apache maven (today)
 - [earthly/setup-ucacher](https://github.com/earthly/setup-ucacher) - Installs ucacher (Earthly Universal Caching) in a GHA job (today)
 - [Dark-Alex-17/managarr](https://github.com/Dark-Alex-17/managarr) - A TUI and CLI for managing *arr servers. Built with 🤎 in Rust (1 day ago)
 - [jmattheis/goverter](https://github.com/jmattheis/goverter) - Generate type-safe Go converters by defining function signatures. (2 days ago)
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (2 days ago)
-- [emcie-co/parlant](https://github.com/emcie-co/parlant) - A structured approach to building and guiding customer-facing AI agents (2 days ago)
