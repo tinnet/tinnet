@@ -15,8 +15,8 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
-- [tony-png/Meulade_RVSQ](https://github.com/tony-png/Meulade_RVSQ) - Programme pour prendre rendez-vous avec un docteur automatiquement. (1 day ago)
-- [zakirullin/cognitive-load](https://github.com/zakirullin/cognitive-load) - 🧠 Cognitive Load is what matters (2 days ago)
-- [mark-when/markwhen](https://github.com/mark-when/markwhen) - Make a cascading timeline from markdown-like text. Supports simple American/European date styles, ISO8601, images, links, locations, and more. (2 days ago)
-- [apache/maven-hocon-extension](https://github.com/apache/maven-hocon-extension) - Apache maven (3 days ago)
-- [earthly/setup-ucacher](https://github.com/earthly/setup-ucacher) - Installs ucacher (Earthly Universal Caching) in a GHA job (3 days ago)
+- [tony-png/Meulade_RVSQ](https://github.com/tony-png/Meulade_RVSQ) - Programme pour prendre rendez-vous avec un docteur automatiquement. (2 days ago)
+- [zakirullin/cognitive-load](https://github.com/zakirullin/cognitive-load) - 🧠 Cognitive Load is what matters (3 days ago)
+- [mark-when/markwhen](https://github.com/mark-when/markwhen) - Make a cascading timeline from markdown-like text. Supports simple American/European date styles, ISO8601, images, links, locations, and more. (3 days ago)
+- [apache/maven-hocon-extension](https://github.com/apache/maven-hocon-extension) - Apache maven (4 days ago)
+- [earthly/setup-ucacher](https://github.com/earthly/setup-ucacher) - Installs ucacher (Earthly Universal Caching) in a GHA job (4 days ago)
