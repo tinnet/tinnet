@@ -15,8 +15,8 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
-- [tony-png/Meulade_RVSQ](https://github.com/tony-png/Meulade_RVSQ) - Programme pour prendre rendez-vous avec un docteur automatiquement. (5 days ago)
-- [zakirullin/cognitive-load](https://github.com/zakirullin/cognitive-load) - 🧠 Cognitive Load is what matters (6 days ago)
-- [mark-when/markwhen](https://github.com/mark-when/markwhen) - Make a cascading timeline from markdown-like text. Supports simple American/European date styles, ISO8601, images, links, locations, and more. (6 days ago)
+- [tony-png/Meulade_RVSQ](https://github.com/tony-png/Meulade_RVSQ) - Programme pour prendre rendez-vous avec un docteur automatiquement. (6 days ago)
+- [zakirullin/cognitive-load](https://github.com/zakirullin/cognitive-load) - 🧠 Cognitive Load is what matters (1 week ago)
+- [mark-when/markwhen](https://github.com/mark-when/markwhen) - Make a cascading timeline from markdown-like text. Supports simple American/European date styles, ISO8601, images, links, locations, and more. (1 week ago)
 - [apache/maven-hocon-extension](https://github.com/apache/maven-hocon-extension) - Apache maven (1 week ago)
 - [earthly/setup-ucacher](https://github.com/earthly/setup-ucacher) - Installs ucacher (Earthly Universal Caching) in a GHA job (1 week ago)
