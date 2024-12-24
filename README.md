@@ -15,8 +15,8 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
+- [oldmoe/litestack](https://github.com/oldmoe/litestack) -  (today)
 - [huangsam/photohaul](https://github.com/huangsam/photohaul) - Effortless photo management (1 day ago)
 - [tony-png/Meulade_RVSQ](https://github.com/tony-png/Meulade_RVSQ) - Programme pour prendre rendez-vous avec un docteur automatiquement. (1 week ago)
 - [zakirullin/cognitive-load](https://github.com/zakirullin/cognitive-load) - 🧠 Cognitive Load is what matters (1 week ago)
 - [mark-when/markwhen](https://github.com/mark-when/markwhen) - Make a cascading timeline from markdown-like text. Supports simple American/European date styles, ISO8601, images, links, locations, and more. (1 week ago)
-- [apache/maven-hocon-extension](https://github.com/apache/maven-hocon-extension) - Apache maven (1 week ago)
