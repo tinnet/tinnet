@@ -15,8 +15,8 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
-- [facundoolano/software-papers](https://github.com/facundoolano/software-papers) - 📚 A curated list of papers for Software Engineers (4 days ago)
-- [letsencrypt/openzfs-nvme-databases](https://github.com/letsencrypt/openzfs-nvme-databases) -  (5 days ago)
-- [hoarder-app/hoarder](https://github.com/hoarder-app/hoarder) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search (5 days ago)
-- [oldmoe/litestack](https://github.com/oldmoe/litestack) -  (6 days ago)
+- [facundoolano/software-papers](https://github.com/facundoolano/software-papers) - 📚 A curated list of papers for Software Engineers (5 days ago)
+- [letsencrypt/openzfs-nvme-databases](https://github.com/letsencrypt/openzfs-nvme-databases) -  (6 days ago)
+- [hoarder-app/hoarder](https://github.com/hoarder-app/hoarder) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search (6 days ago)
+- [oldmoe/litestack](https://github.com/oldmoe/litestack) -  (1 week ago)
 - [huangsam/photohaul](https://github.com/huangsam/photohaul) - Effortless photo management (1 week ago)
