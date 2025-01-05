@@ -15,8 +15,8 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
+- [nanoc/nanoc](https://github.com/nanoc/nanoc) - A powerful web publishing system (today)
+- [Psycojoker/prosopopee](https://github.com/Psycojoker/prosopopee) - a static website generator to make beautiful customizable pictures galleries that tell a story (today)
+- [waynezhang/foto](https://github.com/waynezhang/foto) - Yet another publishing tool for minimalist photographers. (today)
 - [douglas/dotfiles](https://github.com/douglas/dotfiles) - My dotfiles =) (2 days ago)
 - [facundoolano/software-papers](https://github.com/facundoolano/software-papers) - 📚 A curated list of papers for Software Engineers (1 week ago)
-- [letsencrypt/openzfs-nvme-databases](https://github.com/letsencrypt/openzfs-nvme-databases) -  (1 week ago)
-- [hoarder-app/hoarder](https://github.com/hoarder-app/hoarder) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search (1 week ago)
-- [oldmoe/litestack](https://github.com/oldmoe/litestack) -  (1 week ago)
