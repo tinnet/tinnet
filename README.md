@@ -15,7 +15,7 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
-- [douglas/dotfiles](https://github.com/douglas/dotfiles) - My dotfiles =) (1 day ago)
+- [douglas/dotfiles](https://github.com/douglas/dotfiles) - My dotfiles =) (2 days ago)
 - [facundoolano/software-papers](https://github.com/facundoolano/software-papers) - 📚 A curated list of papers for Software Engineers (1 week ago)
 - [letsencrypt/openzfs-nvme-databases](https://github.com/letsencrypt/openzfs-nvme-databases) -  (1 week ago)
 - [hoarder-app/hoarder](https://github.com/hoarder-app/hoarder) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search (1 week ago)
