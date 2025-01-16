@@ -15,8 +15,8 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
-- [swaits/typst-collection](https://github.com/swaits/typst-collection) - A collection of typst stuff, including packages and templates. (1 day ago)
-- [Thumuss/utpm](https://github.com/Thumuss/utpm) - A package manager for local and remote Typst packages.  (1 day ago)
-- [NVIDIA/nv-ingest](https://github.com/NVIDIA/nv-ingest) - NVIDIA Ingest is an early access set of microservices for parsing hundreds of thousands of complex, messy unstructured PDFs and other enterprise documents into metadata and text to embed into retrieval systems. (6 days ago)
+- [swaits/typst-collection](https://github.com/swaits/typst-collection) - A collection of typst stuff, including packages and templates. (2 days ago)
+- [Thumuss/utpm](https://github.com/Thumuss/utpm) - A package manager for local and remote Typst packages.  (2 days ago)
+- [NVIDIA/nv-ingest](https://github.com/NVIDIA/nv-ingest) - NVIDIA Ingest is an early access set of microservices for parsing hundreds of thousands of complex, messy unstructured PDFs and other enterprise documents into metadata and text to embed into retrieval systems. (1 week ago)
 - [nanoc/nanoc](https://github.com/nanoc/nanoc) - A powerful web publishing system (1 week ago)
 - [Psycojoker/prosopopee](https://github.com/Psycojoker/prosopopee) - a static website generator to make beautiful customizable pictures galleries that tell a story (1 week ago)
