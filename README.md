@@ -15,8 +15,8 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
-- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool (4 days ago)
-- [truenas/apps](https://github.com/truenas/apps) -  (5 days ago)
+- [darko-mesaros/krtk.rs](https://github.com/darko-mesaros/krtk.rs) - My Rust 🦀 powered Link shortener. (1 day ago)
+- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool (5 days ago)
+- [truenas/apps](https://github.com/truenas/apps) -  (6 days ago)
 - [swaits/typst-collection](https://github.com/swaits/typst-collection) - A collection of typst stuff, including packages and templates. (2 weeks ago)
 - [Thumuss/utpm](https://github.com/Thumuss/utpm) - A package manager for local and remote Typst packages.  (2 weeks ago)
-- [NVIDIA/nv-ingest](https://github.com/NVIDIA/nv-ingest) - NVIDIA Ingest is an early access set of microservices for parsing hundreds of thousands of complex, messy unstructured PDFs and other enterprise documents into metadata and text to embed into retrieval systems. (3 weeks ago)
