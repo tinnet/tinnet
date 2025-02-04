@@ -15,8 +15,8 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
-- [darko-mesaros/krtk.rs](https://github.com/darko-mesaros/krtk.rs) - My Rust 🦀 powered Link shortener. (2 days ago)
-- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool (6 days ago)
+- [darko-mesaros/krtk.rs](https://github.com/darko-mesaros/krtk.rs) - My Rust 🦀 powered Link shortener. (3 days ago)
+- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool (1 week ago)
 - [truenas/apps](https://github.com/truenas/apps) -  (1 week ago)
-- [swaits/typst-collection](https://github.com/swaits/typst-collection) - A collection of typst stuff, including packages and templates. (2 weeks ago)
-- [Thumuss/utpm](https://github.com/Thumuss/utpm) - A package manager for local and remote Typst packages.  (2 weeks ago)
+- [swaits/typst-collection](https://github.com/swaits/typst-collection) - A collection of typst stuff, including packages and templates. (3 weeks ago)
+- [Thumuss/utpm](https://github.com/Thumuss/utpm) - A package manager for local and remote Typst packages.  (3 weeks ago)
