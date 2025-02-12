@@ -15,7 +15,7 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
-- [orchestr7/vercraft](https://github.com/orchestr7/vercraft) - A simple tool for versioning your JVM app which calculates the version of the commit in SemVer format (2 days ago)
+- [orchestr7/vercraft](https://github.com/orchestr7/vercraft) - A simple tool for versioning your JVM app which calculates the version of the commit in SemVer format (3 days ago)
 - [darko-mesaros/krtk.rs](https://github.com/darko-mesaros/krtk.rs) - My Rust 🦀 powered Link shortener. (1 week ago)
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool (2 weeks ago)
 - [truenas/apps](https://github.com/truenas/apps) -  (2 weeks ago)
