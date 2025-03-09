@@ -15,8 +15,8 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
-- [qdm12/gluetun](https://github.com/qdm12/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in. (today)
-- [antoniomika/pcompose](https://github.com/antoniomika/pcompose) - An open source PaaS using docker-compose (today)
-- [orchestr7/vercraft](https://github.com/orchestr7/vercraft) - A simple tool for versioning your JVM app which calculates the version of the commit in SemVer format (3 weeks ago)
+- [qdm12/gluetun](https://github.com/qdm12/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in. (1 day ago)
+- [antoniomika/pcompose](https://github.com/antoniomika/pcompose) - An open source PaaS using docker-compose (1 day ago)
+- [orchestr7/vercraft](https://github.com/orchestr7/vercraft) - A simple tool for versioning your JVM app which calculates the version of the commit in SemVer format (4 weeks ago)
 - [darko-mesaros/krtk.rs](https://github.com/darko-mesaros/krtk.rs) - My Rust 🦀 powered Link shortener. (1 month ago)
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool (1 month ago)
