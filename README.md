@@ -15,8 +15,8 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
-- [jaxxstorm/stunner](https://github.com/jaxxstorm/stunner) - Detect your NAT quickly and easily, and that&#39;s the bottom line.. (1 day ago)
-- [qdm12/gluetun](https://github.com/qdm12/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in. (3 days ago)
-- [antoniomika/pcompose](https://github.com/antoniomika/pcompose) - An open source PaaS using docker-compose (3 days ago)
+- [jaxxstorm/stunner](https://github.com/jaxxstorm/stunner) - Detect your NAT quickly and easily, and that&#39;s the bottom line.. (2 days ago)
+- [qdm12/gluetun](https://github.com/qdm12/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in. (4 days ago)
+- [antoniomika/pcompose](https://github.com/antoniomika/pcompose) - An open source PaaS using docker-compose (4 days ago)
 - [orchestr7/vercraft](https://github.com/orchestr7/vercraft) - A simple tool for versioning your JVM app which calculates the version of the commit in SemVer format (1 month ago)
 - [darko-mesaros/krtk.rs](https://github.com/darko-mesaros/krtk.rs) - My Rust 🦀 powered Link shortener. (1 month ago)
