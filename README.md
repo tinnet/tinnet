@@ -15,8 +15,8 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
+- [xaf/omni](https://github.com/xaf/omni) - the omnipotent tool (today)
+- [patsissons/shopiql](https://github.com/patsissons/shopiql) -  (today)
 - [ZachGoldberg/Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook) - The Startup CTO&#39;s Handbook, a book covering leadership, management and technical topics for leaders of software engineering teams (1 day ago)
 - [jaxxstorm/stunner](https://github.com/jaxxstorm/stunner) - Detect your NAT quickly and easily, and that&#39;s the bottom line.. (3 days ago)
 - [qdm12/gluetun](https://github.com/qdm12/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in. (5 days ago)
-- [antoniomika/pcompose](https://github.com/antoniomika/pcompose) - An open source PaaS using docker-compose (5 days ago)
-- [orchestr7/vercraft](https://github.com/orchestr7/vercraft) - A simple tool for versioning your JVM app which calculates the version of the commit in SemVer format (1 month ago)
