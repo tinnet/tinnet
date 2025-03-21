@@ -15,8 +15,8 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
+- [zyedidia/eget](https://github.com/zyedidia/eget) - Easily install prebuilt binaries from GitHub. (today)
+- [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to &#39;find&#39; (today)
+- [shenxn/protonmail-bridge-docker](https://github.com/shenxn/protonmail-bridge-docker) - ProtonMail IMAP/SMTP Bridge Docker container (today)
 - [adzap/validates_timeliness](https://github.com/adzap/validates_timeliness) - Date and time validation plugin for ActiveModel and Rails.  Supports multiple ORMs and allows custom date/time formats. (1 week ago)
 - [xaf/omni](https://github.com/xaf/omni) - the omnipotent tool (1 week ago)
-- [patsissons/shopiql](https://github.com/patsissons/shopiql) -  (1 week ago)
-- [ZachGoldberg/Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook) - The Startup CTO&#39;s Handbook, a book covering leadership, management and technical topics for leaders of software engineering teams (1 week ago)
-- [jaxxstorm/stunner](https://github.com/jaxxstorm/stunner) - Detect your NAT quickly and easily, and that&#39;s the bottom line.. (1 week ago)
