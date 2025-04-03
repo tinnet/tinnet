@@ -15,8 +15,8 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
-- [ente-io/ente](https://github.com/ente-io/ente) - End-to-end encrypted platform for photos, videos and 2FA secrets. (1 day ago)
-- [ariel-os/ariel-os](https://github.com/ariel-os/ariel-os) - Ariel OS is a library operating system for secure, memory-safe, low-power Internet of Things, written in Rust (2 days ago)
-- [meeb/tubesync](https://github.com/meeb/tubesync) - Syncs YouTube channels and playlists to a locally hosted media server (6 days ago)
-- [alexta69/metube](https://github.com/alexta69/metube) - Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp) (6 days ago)
-- [TeamPiped/Piped-Docker](https://github.com/TeamPiped/Piped-Docker) -  (6 days ago)
+- [medialab/xan](https://github.com/medialab/xan) - The CSV magician (1 day ago)
+- [ente-io/ente](https://github.com/ente-io/ente) - End-to-end encrypted platform for photos, videos and 2FA secrets. (2 days ago)
+- [ariel-os/ariel-os](https://github.com/ariel-os/ariel-os) - Ariel OS is a library operating system for secure, memory-safe, low-power Internet of Things, written in Rust (3 days ago)
+- [meeb/tubesync](https://github.com/meeb/tubesync) - Syncs YouTube channels and playlists to a locally hosted media server (1 week ago)
+- [alexta69/metube](https://github.com/alexta69/metube) - Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp) (1 week ago)
