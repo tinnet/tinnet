@@ -15,8 +15,8 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
-- [medialab/xan](https://github.com/medialab/xan) - The CSV magician (4 days ago)
-- [ente-io/ente](https://github.com/ente-io/ente) - End-to-end encrypted platform for photos, videos and 2FA secrets. (5 days ago)
-- [ariel-os/ariel-os](https://github.com/ariel-os/ariel-os) - Ariel OS is a library operating system for secure, memory-safe, low-power Internet of Things, written in Rust (6 days ago)
-- [meeb/tubesync](https://github.com/meeb/tubesync) - Syncs YouTube channels and playlists to a locally hosted media server (1 week ago)
-- [alexta69/metube](https://github.com/alexta69/metube) - Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp) (1 week ago)
+- [animetosho/par2cmdline-turbo](https://github.com/animetosho/par2cmdline-turbo) - par2cmdline × ParPar: speed focused par2cmdline fork (1 day ago)
+- [animetosho/ParPar](https://github.com/animetosho/ParPar) - High performance PAR2 create client for NodeJS (1 day ago)
+- [Parchive/par2cmdline](https://github.com/Parchive/par2cmdline) - Official repo for par2cmdline and libpar2 (1 day ago)
+- [medialab/xan](https://github.com/medialab/xan) - The CSV magician (5 days ago)
+- [ente-io/ente](https://github.com/ente-io/ente) - End-to-end encrypted platform for photos, videos and 2FA secrets. (6 days ago)
