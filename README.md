@@ -15,8 +15,8 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
-- [animetosho/par2cmdline-turbo](https://github.com/animetosho/par2cmdline-turbo) - par2cmdline × ParPar: speed focused par2cmdline fork (1 day ago)
-- [animetosho/ParPar](https://github.com/animetosho/ParPar) - High performance PAR2 create client for NodeJS (1 day ago)
-- [Parchive/par2cmdline](https://github.com/Parchive/par2cmdline) - Official repo for par2cmdline and libpar2 (1 day ago)
-- [medialab/xan](https://github.com/medialab/xan) - The CSV magician (5 days ago)
-- [ente-io/ente](https://github.com/ente-io/ente) - End-to-end encrypted platform for photos, videos and 2FA secrets. (6 days ago)
+- [animetosho/par2cmdline-turbo](https://github.com/animetosho/par2cmdline-turbo) - par2cmdline × ParPar: speed focused par2cmdline fork (2 days ago)
+- [animetosho/ParPar](https://github.com/animetosho/ParPar) - High performance PAR2 create client for NodeJS (2 days ago)
+- [Parchive/par2cmdline](https://github.com/Parchive/par2cmdline) - Official repo for par2cmdline and libpar2 (2 days ago)
+- [medialab/xan](https://github.com/medialab/xan) - The CSV magician (6 days ago)
+- [ente-io/ente](https://github.com/ente-io/ente) - End-to-end encrypted platform for photos, videos and 2FA secrets. (1 week ago)
