@@ -15,8 +15,8 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
-- [Notifiarr/dockwatch](https://github.com/Notifiarr/dockwatch) - Automated Container Management and Notifications w/ beautiful WebUI (1 day ago)
-- [animetosho/par2cmdline-turbo](https://github.com/animetosho/par2cmdline-turbo) - par2cmdline × ParPar: speed focused par2cmdline fork (5 days ago)
-- [animetosho/ParPar](https://github.com/animetosho/ParPar) - High performance PAR2 create client for NodeJS (5 days ago)
-- [Parchive/par2cmdline](https://github.com/Parchive/par2cmdline) - Official repo for par2cmdline and libpar2 (5 days ago)
+- [Notifiarr/dockwatch](https://github.com/Notifiarr/dockwatch) - Automated Container Management and Notifications w/ beautiful WebUI (2 days ago)
+- [animetosho/par2cmdline-turbo](https://github.com/animetosho/par2cmdline-turbo) - par2cmdline × ParPar: speed focused par2cmdline fork (6 days ago)
+- [animetosho/ParPar](https://github.com/animetosho/ParPar) - High performance PAR2 create client for NodeJS (6 days ago)
+- [Parchive/par2cmdline](https://github.com/Parchive/par2cmdline) - Official repo for par2cmdline and libpar2 (6 days ago)
 - [medialab/xan](https://github.com/medialab/xan) - The CSV magician (1 week ago)
