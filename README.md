@@ -17,6 +17,6 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 - [tailscale/golink](https://github.com/tailscale/golink) - A private shortlink service for tailnets (1 week ago)
 - [pgdogdev/pgdog](https://github.com/pgdogdev/pgdog) - Horizontal scaling for PostgreSQL with automatic sharding. (1 week ago)
-- [jbangdev/jbang-jash](https://github.com/jbangdev/jbang-jash) -  (1 week ago)
+- [jbangdev/jbang-jash](https://github.com/jbangdev/jbang-jash) -  (2 weeks ago)
 - [aleixmorgadas/awesome-engineering-strategy](https://github.com/aleixmorgadas/awesome-engineering-strategy) - 🎉 How to design and execute engineering strategies for tech leadership. (2 weeks ago)
-- [jaywcjlove/DevHub](https://github.com/jaywcjlove/DevHub) - A feature-rich offline application, is meticulously crafted to support developers in their daily tasks while ensuring the utmost security of their data (2 weeks ago)
+- [jaywcjlove/DevHub](https://github.com/jaywcjlove/DevHub) - A feature-rich offline application, is meticulously crafted to support developers in their daily tasks while ensuring the utmost security of their data (3 weeks ago)
