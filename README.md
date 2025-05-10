@@ -15,8 +15,8 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
+- [maveniverse/mason](https://github.com/maveniverse/mason) - Maven YAML / JSON / HOCON Parsers (today)
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, mobile, and more. (today)
 - [tailscale/golink](https://github.com/tailscale/golink) - A private shortlink service for tailnets (2 weeks ago)
 - [pgdogdev/pgdog](https://github.com/pgdogdev/pgdog) - Horizontal scaling for PostgreSQL with automatic sharding. (2 weeks ago)
 - [jbangdev/jbang-jash](https://github.com/jbangdev/jbang-jash) -  (3 weeks ago)
-- [aleixmorgadas/awesome-engineering-strategy](https://github.com/aleixmorgadas/awesome-engineering-strategy) - 🎉 How to design and execute engineering strategies for tech leadership. (3 weeks ago)
