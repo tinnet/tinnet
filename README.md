@@ -15,8 +15,8 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
+- [ocpsoft/prettytime](https://github.com/ocpsoft/prettytime) - Social Style Date and Time Formatting for Java (today)
+- [quarkiverse/quarkus-roq](https://github.com/quarkiverse/quarkus-roq) - The Roq Static Site Generator allows to easily create a static website or blog using Quarkus super-powers. (today)
 - [rafaskb/awesome-libgdx](https://github.com/rafaskb/awesome-libgdx) - 🎮 📝 A curated list of libGDX resources to help developers make awesome games. (1 day ago)
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers. (1 day ago)
 - [maveniverse/mason](https://github.com/maveniverse/mason) - Maven YAML / JSON / HOCON Parsers (1 day ago)
-- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, mobile, and more. (1 day ago)
-- [tailscale/golink](https://github.com/tailscale/golink) - A private shortlink service for tailnets (2 weeks ago)
