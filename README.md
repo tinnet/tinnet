@@ -15,8 +15,8 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
+- [mathesar-foundation/mathesar](https://github.com/mathesar-foundation/mathesar) - An intuitive spreadsheet-like interface that lets users of all technical skill levels view, edit, query, and collaborate on Postgres data directly—100% open source and self hosted, with native Postgres access control. (today)
+- [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included (today)
+- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor &amp; status page by @AnandChowdhary (today)
+- [astral-sh/ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust. (today)
 - [ocpsoft/prettytime](https://github.com/ocpsoft/prettytime) - Social Style Date and Time Formatting for Java (2 days ago)
-- [quarkiverse/quarkus-roq](https://github.com/quarkiverse/quarkus-roq) - The Roq Static Site Generator allows to easily create a static website or blog using Quarkus super-powers. (2 days ago)
-- [rafaskb/awesome-libgdx](https://github.com/rafaskb/awesome-libgdx) - 🎮 📝 A curated list of libGDX resources to help developers make awesome games. (3 days ago)
-- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers. (3 days ago)
-- [maveniverse/mason](https://github.com/maveniverse/mason) - Maven YAML / JSON / HOCON Parsers (3 days ago)
