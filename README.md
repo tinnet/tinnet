@@ -15,8 +15,8 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
-- [ocpsoft/prettytime](https://github.com/ocpsoft/prettytime) - Social Style Date and Time Formatting for Java (1 day ago)
-- [quarkiverse/quarkus-roq](https://github.com/quarkiverse/quarkus-roq) - The Roq Static Site Generator allows to easily create a static website or blog using Quarkus super-powers. (1 day ago)
-- [rafaskb/awesome-libgdx](https://github.com/rafaskb/awesome-libgdx) - 🎮 📝 A curated list of libGDX resources to help developers make awesome games. (2 days ago)
-- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers. (2 days ago)
-- [maveniverse/mason](https://github.com/maveniverse/mason) - Maven YAML / JSON / HOCON Parsers (2 days ago)
+- [ocpsoft/prettytime](https://github.com/ocpsoft/prettytime) - Social Style Date and Time Formatting for Java (2 days ago)
+- [quarkiverse/quarkus-roq](https://github.com/quarkiverse/quarkus-roq) - The Roq Static Site Generator allows to easily create a static website or blog using Quarkus super-powers. (2 days ago)
+- [rafaskb/awesome-libgdx](https://github.com/rafaskb/awesome-libgdx) - 🎮 📝 A curated list of libGDX resources to help developers make awesome games. (3 days ago)
+- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers. (3 days ago)
+- [maveniverse/mason](https://github.com/maveniverse/mason) - Maven YAML / JSON / HOCON Parsers (3 days ago)
