@@ -15,8 +15,8 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
-- [mathesar-foundation/mathesar](https://github.com/mathesar-foundation/mathesar) - An intuitive spreadsheet-like interface that lets users of all technical skill levels view, edit, query, and collaborate on Postgres data directly—100% open source and self hosted, with native Postgres access control. (1 day ago)
-- [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included (1 day ago)
-- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor &amp; status page by @AnandChowdhary (1 day ago)
-- [astral-sh/ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust. (1 day ago)
-- [ocpsoft/prettytime](https://github.com/ocpsoft/prettytime) - Social Style Date and Time Formatting for Java (3 days ago)
+- [mathesar-foundation/mathesar](https://github.com/mathesar-foundation/mathesar) - An intuitive spreadsheet-like interface that lets users of all technical skill levels view, edit, query, and collaborate on Postgres data directly—100% open source and self hosted, with native Postgres access control. (2 days ago)
+- [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included (2 days ago)
+- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor &amp; status page by @AnandChowdhary (2 days ago)
+- [astral-sh/ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust. (2 days ago)
+- [ocpsoft/prettytime](https://github.com/ocpsoft/prettytime) - Social Style Date and Time Formatting for Java (4 days ago)
