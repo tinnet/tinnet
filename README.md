@@ -15,8 +15,8 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
+- [wimpysworld/faff](https://github.com/wimpysworld/faff) - Drop the faff, dodge the judgment. Another bloody AI commit generator, but this one stays local 🦙 (today)
 - [kepano/defuddle-cli](https://github.com/kepano/defuddle-cli) - Command line utility to extract clean html, markdown and metadata from web pages. (2 weeks ago)
 - [mathesar-foundation/mathesar](https://github.com/mathesar-foundation/mathesar) - An intuitive spreadsheet-like interface that lets users of all technical skill levels view, edit, query, and collaborate on Postgres data directly—100% open source and self hosted, with native Postgres access control. (3 weeks ago)
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included (3 weeks ago)
 - [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor &amp; status page by @AnandChowdhary (3 weeks ago)
-- [astral-sh/ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust. (3 weeks ago)
