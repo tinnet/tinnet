@@ -15,8 +15,8 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
-- [psviderski/unregistry](https://github.com/psviderski/unregistry) - Push docker images directly to remote servers without an external registry (today)
-- [carrotdata/carrot-cache](https://github.com/carrotdata/carrot-cache) - In-Out-Process Java cache (L1/L2 off-heap, scalable, ZeroGC) with full SSD support (4 days ago)
+- [psviderski/unregistry](https://github.com/psviderski/unregistry) - Push docker images directly to remote servers without an external registry (1 day ago)
+- [carrotdata/carrot-cache](https://github.com/carrotdata/carrot-cache) - In-Out-Process Java cache (L1/L2 off-heap, scalable, ZeroGC) with full SSD support (5 days ago)
 - [maxandersen/jdysk](https://github.com/maxandersen/jdysk) - java version of dysk (2 weeks ago)
 - [wimpysworld/faff](https://github.com/wimpysworld/faff) - Drop the faff, dodge the judgment. Another bloody AI commit generator, but this one stays local 🦙 (2 weeks ago)
 - [kepano/defuddle-cli](https://github.com/kepano/defuddle-cli) - Command line utility to extract clean html, markdown and metadata from web pages. (1 month ago)
