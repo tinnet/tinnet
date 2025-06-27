@@ -15,8 +15,8 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
-- [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) - A CLI tool for analyzing Claude Code usage from local JSONL files. (1 day ago)
-- [psviderski/unregistry](https://github.com/psviderski/unregistry) - Push docker images directly to remote servers without an external registry (2 days ago)
-- [carrotdata/carrot-cache](https://github.com/carrotdata/carrot-cache) - In-Out-Process Java cache (L1/L2 off-heap, scalable, ZeroGC) with full SSD support (6 days ago)
+- [matklad/matklad.github.io](https://github.com/matklad/matklad.github.io) - My coding related blog (1 day ago)
+- [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) - A CLI tool for analyzing Claude Code usage from local JSONL files. (2 days ago)
+- [psviderski/unregistry](https://github.com/psviderski/unregistry) - Push docker images directly to remote servers without an external registry (3 days ago)
+- [carrotdata/carrot-cache](https://github.com/carrotdata/carrot-cache) - In-Out-Process Java cache (L1/L2 off-heap, scalable, ZeroGC) with full SSD support (1 week ago)
 - [maxandersen/jdysk](https://github.com/maxandersen/jdysk) - java version of dysk (2 weeks ago)
-- [wimpysworld/faff](https://github.com/wimpysworld/faff) - Drop the faff, dodge the judgment. Another bloody AI commit generator, but this one stays local 🦙 (2 weeks ago)
