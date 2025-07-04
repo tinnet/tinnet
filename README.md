@@ -18,5 +18,5 @@ Always looking to get better at the tools I know or learn about new ones and how
 - [matklad/matklad.github.io](https://github.com/matklad/matklad.github.io) - My coding related blog (1 week ago)
 - [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) - A CLI tool for analyzing Claude Code usage from local JSONL files. (1 week ago)
 - [psviderski/unregistry](https://github.com/psviderski/unregistry) - Push docker images directly to remote servers without an external registry (1 week ago)
-- [carrotdata/carrot-cache](https://github.com/carrotdata/carrot-cache) - In-Out-Process Java cache (L1/L2 off-heap, scalable, ZeroGC) with full SSD support (1 week ago)
+- [carrotdata/carrot-cache](https://github.com/carrotdata/carrot-cache) - In-Out-Process Java cache (L1/L2 off-heap, scalable, ZeroGC) with full SSD support (2 weeks ago)
 - [maxandersen/jdysk](https://github.com/maxandersen/jdysk) - java version of dysk (3 weeks ago)
