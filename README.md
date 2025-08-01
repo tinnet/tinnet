@@ -15,8 +15,8 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
-- [tailscale/gomodfs](https://github.com/tailscale/gomodfs) - GOMODCACHE Go module cache FUSE filesystem (3 days ago)
-- [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server (6 days ago)
-- [cwida/FastLanes](https://github.com/cwida/FastLanes) - Next-Gen Big Data File Format (6 days ago)
+- [tailscale/gomodfs](https://github.com/tailscale/gomodfs) - GOMODCACHE Go module cache FUSE filesystem (4 days ago)
+- [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server (1 week ago)
+- [cwida/FastLanes](https://github.com/cwida/FastLanes) - Next-Gen Big Data File Format (1 week ago)
 - [instavm/coderunner](https://github.com/instavm/coderunner) - A secure local sandbox to run LLM-generated code using Apple containers (2 weeks ago)
 - [TechHutTV/homelab](https://github.com/TechHutTV/homelab) - Homelab stacks, templates, and more fun resources!  (3 weeks ago)
