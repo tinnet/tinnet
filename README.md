@@ -15,8 +15,8 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
-- [abetusk/neatocal](https://github.com/abetusk/neatocal) - A single page printable calendar (today)
-- [tailscale/gomodfs](https://github.com/tailscale/gomodfs) - GOMODCACHE Go module cache FUSE filesystem (6 days ago)
+- [abetusk/neatocal](https://github.com/abetusk/neatocal) - A single page printable calendar (1 day ago)
+- [tailscale/gomodfs](https://github.com/tailscale/gomodfs) - GOMODCACHE Go module cache FUSE filesystem (1 week ago)
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server (1 week ago)
 - [cwida/FastLanes](https://github.com/cwida/FastLanes) - Next-Gen Big Data File Format (1 week ago)
 - [instavm/coderunner](https://github.com/instavm/coderunner) - A secure local sandbox to run LLM-generated code using Apple containers (3 weeks ago)
