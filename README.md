@@ -15,7 +15,7 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
-- [sspaeti/dotfiles](https://github.com/sspaeti/dotfiles) - My nvim, zsh, kitty, obsidian, tmux, and other config files and utility scripts. (2 days ago)
+- [sspaeti/dotfiles](https://github.com/sspaeti/dotfiles) - My nvim, zsh, kitty, obsidian, tmux, and other config files and utility scripts. (3 days ago)
 - [StuffAnThings/qbit_manage](https://github.com/StuffAnThings/qbit_manage) - This tool will help manage tedious tasks in qBittorrent and automate them. Tag, categorize, remove Orphaned data, remove unregistered torrents and much much more. (2 weeks ago)
 - [abetusk/neatocal](https://github.com/abetusk/neatocal) - A single page printable calendar (3 weeks ago)
 - [tailscale/gomodfs](https://github.com/tailscale/gomodfs) - GOMODCACHE Go module cache FUSE filesystem (4 weeks ago)
