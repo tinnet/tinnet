@@ -15,8 +15,8 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
+- [VueTorrent/VueTorrent](https://github.com/VueTorrent/VueTorrent) - The sleekest looking WEBUI for qBittorrent made with Vuejs! (today)
 - [monkesearch/monkeSearch](https://github.com/monkesearch/monkeSearch) - fully local, temporally aware natural language file search on your pc! even without a GPU.  find relevant files using natural language  in less than 1 second. (3 days ago)
 - [spinel-coop/rv](https://github.com/spinel-coop/rv) - 💎💨 Next-gen very fast Ruby tooling (5 days ago)
 - [sspaeti/dotfiles](https://github.com/sspaeti/dotfiles) - My nvim, zsh, kitty, obsidian, tmux, and other config files and utility scripts. (1 week ago)
 - [StuffAnThings/qbit_manage](https://github.com/StuffAnThings/qbit_manage) - This tool will help manage tedious tasks in qBittorrent and automate them. Tag, categorize, remove Orphaned data, remove unregistered torrents and much much more. (3 weeks ago)
-- [abetusk/neatocal](https://github.com/abetusk/neatocal) - A single page printable calendar (4 weeks ago)
