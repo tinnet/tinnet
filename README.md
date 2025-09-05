@@ -15,8 +15,8 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
-- [zubanls/zuban](https://github.com/zubanls/zuban) - Zuban Language Server Issue Tracker (today)
-- [bytecodealliance/wasmtime-rb](https://github.com/bytecodealliance/wasmtime-rb) - Ruby WebAssembly runtime powered by Wasmtime (today)
-- [danielpclark/rutie](https://github.com/danielpclark/rutie) - “The Tie Between Ruby and Rust.” (today)
-- [oxidize-rb/rb-sys](https://github.com/oxidize-rb/rb-sys) - Easily build Ruby native extensions in Rust (today)
-- [skryukov/typelizer](https://github.com/skryukov/typelizer) - A TypeScript type generator for Ruby serializers. (1 day ago)
+- [zubanls/zuban](https://github.com/zubanls/zuban) - Zuban Language Server Issue Tracker (1 day ago)
+- [bytecodealliance/wasmtime-rb](https://github.com/bytecodealliance/wasmtime-rb) - Ruby WebAssembly runtime powered by Wasmtime (1 day ago)
+- [danielpclark/rutie](https://github.com/danielpclark/rutie) - “The Tie Between Ruby and Rust.” (1 day ago)
+- [oxidize-rb/rb-sys](https://github.com/oxidize-rb/rb-sys) - Easily build Ruby native extensions in Rust (1 day ago)
+- [skryukov/typelizer](https://github.com/skryukov/typelizer) - A TypeScript type generator for Ruby serializers. (2 days ago)
