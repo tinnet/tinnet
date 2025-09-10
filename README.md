@@ -15,8 +15,8 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
-- [gokrazy/bull](https://github.com/gokrazy/bull) -  (today)
-- [zubanls/zuban](https://github.com/zubanls/zuban) - Zuban Language Server Issue Tracker (5 days ago)
-- [bytecodealliance/wasmtime-rb](https://github.com/bytecodealliance/wasmtime-rb) - Ruby WebAssembly runtime powered by Wasmtime (5 days ago)
-- [danielpclark/rutie](https://github.com/danielpclark/rutie) - “The Tie Between Ruby and Rust.” (5 days ago)
-- [oxidize-rb/rb-sys](https://github.com/oxidize-rb/rb-sys) - Easily build Ruby native extensions in Rust (5 days ago)
+- [gokrazy/bull](https://github.com/gokrazy/bull) -  (1 day ago)
+- [zubanls/zuban](https://github.com/zubanls/zuban) - Zuban Language Server Issue Tracker (6 days ago)
+- [bytecodealliance/wasmtime-rb](https://github.com/bytecodealliance/wasmtime-rb) - Ruby WebAssembly runtime powered by Wasmtime (6 days ago)
+- [danielpclark/rutie](https://github.com/danielpclark/rutie) - “The Tie Between Ruby and Rust.” (6 days ago)
+- [oxidize-rb/rb-sys](https://github.com/oxidize-rb/rb-sys) - Easily build Ruby native extensions in Rust (6 days ago)
