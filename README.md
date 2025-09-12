@@ -15,7 +15,7 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
-- [gokrazy/bull](https://github.com/gokrazy/bull) -  (2 days ago)
+- [gokrazy/bull](https://github.com/gokrazy/bull) -  (3 days ago)
 - [zubanls/zuban](https://github.com/zubanls/zuban) - Zuban Language Server Issue Tracker (1 week ago)
 - [bytecodealliance/wasmtime-rb](https://github.com/bytecodealliance/wasmtime-rb) - Ruby WebAssembly runtime powered by Wasmtime (1 week ago)
 - [danielpclark/rutie](https://github.com/danielpclark/rutie) - “The Tie Between Ruby and Rust.” (1 week ago)
