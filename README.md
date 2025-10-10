@@ -15,8 +15,8 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
-- [hunvreus/devpush](https://github.com/hunvreus/devpush) - Like Vercel, but open source and for all languages. (today)
+- [hunvreus/devpush](https://github.com/hunvreus/devpush) - Like Vercel, but open source and for all languages. (1 day ago)
 - [tginsberg/gatherers4j](https://github.com/tginsberg/gatherers4j) - A library of useful Stream Gatherers (custom intermediate operations) for Java.  (1 week ago)
 - [KeyboardInterrupt/awesome-little-online-helpers](https://github.com/KeyboardInterrupt/awesome-little-online-helpers) - Awesome List Containing references to little online Tools (1 week ago)
-- [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place (1 week ago)
+- [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place (2 weeks ago)
 - [skinny85/jilt](https://github.com/skinny85/jilt) - Java annotation processor library for auto-generating Builder (including Staged Builder) pattern classes (2 weeks ago)
