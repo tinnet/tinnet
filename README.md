@@ -15,7 +15,7 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
-- [tobi/try](https://github.com/tobi/try) - fresh directories for every vibe (today)
+- [tobi/try](https://github.com/tobi/try) - fresh directories for every vibe (1 day ago)
 - [hunvreus/devpush](https://github.com/hunvreus/devpush) - Like Vercel, but open source and for all languages. (1 week ago)
 - [tginsberg/gatherers4j](https://github.com/tginsberg/gatherers4j) - A library of useful Stream Gatherers (custom intermediate operations) for Java.  (2 weeks ago)
 - [KeyboardInterrupt/awesome-little-online-helpers](https://github.com/KeyboardInterrupt/awesome-little-online-helpers) - Awesome List Containing references to little online Tools (3 weeks ago)
