@@ -15,8 +15,8 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
-- [FarhanAliRaza/django-bolt](https://github.com/FarhanAliRaza/django-bolt) - Rust-powered API framework for Django achieving 60k&#43; RPS. Uses Actix Web for HTTP, PyO3 for Python bridging, msgspec for serialization. Decorator-based routing with built-in auth and middleware. (3 days ago)
-- [mw-root/uv-lock-report](https://github.com/mw-root/uv-lock-report) - A GitHub Action to report changes to uv.lock. (3 days ago)
-- [tobi/try](https://github.com/tobi/try) - fresh directories for every vibe (6 days ago)
+- [FarhanAliRaza/django-bolt](https://github.com/FarhanAliRaza/django-bolt) - Rust-powered API framework for Django achieving 60k&#43; RPS. Uses Actix Web for HTTP, PyO3 for Python bridging, msgspec for serialization. Decorator-based routing with built-in auth and middleware. (4 days ago)
+- [mw-root/uv-lock-report](https://github.com/mw-root/uv-lock-report) - A GitHub Action to report changes to uv.lock. (4 days ago)
+- [tobi/try](https://github.com/tobi/try) - fresh directories for every vibe (1 week ago)
 - [hunvreus/devpush](https://github.com/hunvreus/devpush) - Like Vercel, but open source and for all languages. (2 weeks ago)
 - [tginsberg/gatherers4j](https://github.com/tginsberg/gatherers4j) - A library of useful Stream Gatherers (custom intermediate operations) for Java.  (3 weeks ago)
