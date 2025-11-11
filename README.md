@@ -18,5 +18,5 @@ Always looking to get better at the tools I know or learn about new ones and how
 - [RealOrangeOne/django-tasks](https://github.com/RealOrangeOne/django-tasks) - A reference implementation and backport of background workers and tasks in Django (1 week ago)
 - [ozeranskii/httptap](https://github.com/ozeranskii/httptap) - Rich-powered CLI that breaks each HTTP request into DNS, connect, TLS, wait, and transfer phases with waterfall timelines, compact summaries, or metrics-only output. (1 week ago)
 - [wesm/moneyflow](https://github.com/wesm/moneyflow) - Moneyflow: Personal Finance Data Interface for Power Users (supporting backends like Monarch Money, YNAB) (1 week ago)
-- [jdx/fnox](https://github.com/jdx/fnox) - encrypted/remote secret manager (1 week ago)
+- [jdx/fnox](https://github.com/jdx/fnox) - encrypted/remote secret manager (2 weeks ago)
 - [FarhanAliRaza/django-bolt](https://github.com/FarhanAliRaza/django-bolt) - Rust-powered API framework for Django achieving 60k&#43; RPS. Uses Actix Web for HTTP, PyO3 for Python bridging, msgspec for serialization. Decorator-based routing with built-in auth and middleware. (2 weeks ago)
