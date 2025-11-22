@@ -19,4 +19,4 @@ Always looking to get better at the tools I know or learn about new ones and how
 - [ozeranskii/httptap](https://github.com/ozeranskii/httptap) - Rich-powered CLI that breaks each HTTP request into DNS, connect, TLS, wait, and transfer phases with waterfall timelines, compact summaries, or metrics-only output. (3 weeks ago)
 - [wesm/moneyflow](https://github.com/wesm/moneyflow) - Moneyflow: Personal Finance Data Interface for Power Users (supporting backends like Monarch Money, YNAB) (3 weeks ago)
 - [jdx/fnox](https://github.com/jdx/fnox) - encrypted/remote secret manager (3 weeks ago)
-- [FarhanAliRaza/django-bolt](https://github.com/FarhanAliRaza/django-bolt) - Rust-powered API framework for Django achieving 60k&#43; RPS. Uses Actix Web for HTTP, PyO3 for Python bridging, msgspec for serialization. Decorator-based routing with built-in auth and middleware. (4 weeks ago)
+- [FarhanAliRaza/django-bolt](https://github.com/FarhanAliRaza/django-bolt) - Rust-powered API framework for Django achieving 60k&#43; RPS. Uses Actix Web for HTTP, PyO3 for Python bridging, msgspec for serialization. Decorator-based routing with built-in auth and middleware. (1 month ago)
