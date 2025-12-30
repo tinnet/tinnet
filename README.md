@@ -17,6 +17,6 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 - [FarhanAliRaza/django-hawkeye](https://github.com/FarhanAliRaza/django-hawkeye) - Django BM25 full-text search using PostgreSQL - a lightweight Elasticsearch alternative (1 week ago)
 - [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph. (1 week ago)
-- [crstian19/prometheus-storagebox-exporter](https://github.com/crstian19/prometheus-storagebox-exporter) - Modern Prometheus exporter for Hetzner Storage Box with comprehensive metrics (2 weeks ago)
-- [j178/prek](https://github.com/j178/prek) - ⚡ Better `pre-commit`, re-engineered in Rust (4 weeks ago)
-- [RealOrangeOne/django-tasks](https://github.com/RealOrangeOne/django-tasks) - A reference implementation and backport of background workers and tasks in Django (1 month ago)
+- [crstian19/prometheus-storagebox-exporter](https://github.com/crstian19/prometheus-storagebox-exporter) - Modern Prometheus exporter for Hetzner Storage Box with comprehensive metrics (3 weeks ago)
+- [j178/prek](https://github.com/j178/prek) - ⚡ Better `pre-commit`, re-engineered in Rust (1 month ago)
+- [RealOrangeOne/django-tasks](https://github.com/RealOrangeOne/django-tasks) - A reference implementation and backport of background workers and tasks in Django (2 months ago)
