@@ -15,7 +15,7 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
-- [mitsuhiko/gh-issue-sync](https://github.com/mitsuhiko/gh-issue-sync) - A github issue sync tool for working with issues locally (today)
+- [mitsuhiko/gh-issue-sync](https://github.com/mitsuhiko/gh-issue-sync) - A github issue sync tool for working with issues locally (1 day ago)
 - [FarhanAliRaza/django-hawkeye](https://github.com/FarhanAliRaza/django-hawkeye) - Django BM25 full-text search using PostgreSQL - a lightweight Elasticsearch alternative (1 week ago)
 - [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph. (1 week ago)
 - [crstian19/prometheus-storagebox-exporter](https://github.com/crstian19/prometheus-storagebox-exporter) - Modern Prometheus exporter for Hetzner Storage Box with comprehensive metrics (3 weeks ago)
