@@ -7,11 +7,11 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### 🔨 Latest Pull Requests I published
 
+- [feat: Add entry price support for trailing stop-loss calculations](https://github.com/tinnet/trailing-stops/pull/2) on [tinnet/trailing-stops](https://github.com/tinnet/trailing-stops) (today)
 - [Add Claude Code GitHub Workflow](https://github.com/tinnet/trailing-stops/pull/1) on [tinnet/trailing-stops](https://github.com/tinnet/trailing-stops) (today)
 - [[instagram] default posts `like_count` to zero](https://github.com/mikf/gallery-dl/pull/5323) on [mikf/gallery-dl](https://github.com/mikf/gallery-dl) (2 years ago)
 - [[instagram] Don&#39;t check private status for *.../YOU/following*](https://github.com/mikf/gallery-dl/pull/5322) on [mikf/gallery-dl](https://github.com/mikf/gallery-dl) (2 years ago)
 - [[RFC] Don&#39;t replace proxy with random port in AddOrReplace](https://github.com/Shopify/toxiproxy/pull/356) on [Shopify/toxiproxy](https://github.com/Shopify/toxiproxy) (4 years ago)
-- [fix: add two more patterns to change cfgMap name during freeze](https://github.com/shyiko/kubetpl/pull/12) on [shyiko/kubetpl](https://github.com/shyiko/kubetpl) (7 years ago)
 
 #### ⭐ Recent Stars
 
