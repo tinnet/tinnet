@@ -15,8 +15,8 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
+- [clawdbot/clawdbot](https://github.com/clawdbot/clawdbot) - Your own personal AI assistant. Any OS. Any Platform. (today)
 - [kaitranntt/ccs](https://github.com/kaitranntt/ccs) - Switch between Claude accounts, Gemini, Copilot, OpenRouter (300&#43; models) via CLIProxyAPI OAuth proxy. Visual dashboard, remote proxy support, WebSearch fallback. Zero-config to production-ready. (1 day ago)
 - [Quill-OS/quill](https://github.com/Quill-OS/quill) - An open-source, Qt-based eBook reader for Kobos (and other devices). (1 week ago)
 - [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - A simple and easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services. (1 week ago)
 - [pomerium/pomerium](https://github.com/pomerium/pomerium) - Pomerium is an identity and context-aware access proxy. (1 week ago)
-- [mitsuhiko/gh-issue-sync](https://github.com/mitsuhiko/gh-issue-sync) - A github issue sync tool for working with issues locally (1 week ago)
