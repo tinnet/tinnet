@@ -7,16 +7,16 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### 🔨 Latest Pull Requests I published
 
-- [feat: Add ty type checker and mise task automation](https://github.com/tinnet/trailing-stops/pull/3) on [tinnet/trailing-stops](https://github.com/tinnet/trailing-stops) (1 day ago)
-- [feat: Add entry price support for trailing stop-loss calculations](https://github.com/tinnet/trailing-stops/pull/2) on [tinnet/trailing-stops](https://github.com/tinnet/trailing-stops) (2 days ago)
-- [Add Claude Code GitHub Workflow](https://github.com/tinnet/trailing-stops/pull/1) on [tinnet/trailing-stops](https://github.com/tinnet/trailing-stops) (2 days ago)
+- [feat: Add ty type checker and mise task automation](https://github.com/tinnet/trailing-stops/pull/3) on [tinnet/trailing-stops](https://github.com/tinnet/trailing-stops) (2 days ago)
+- [feat: Add entry price support for trailing stop-loss calculations](https://github.com/tinnet/trailing-stops/pull/2) on [tinnet/trailing-stops](https://github.com/tinnet/trailing-stops) (3 days ago)
+- [Add Claude Code GitHub Workflow](https://github.com/tinnet/trailing-stops/pull/1) on [tinnet/trailing-stops](https://github.com/tinnet/trailing-stops) (3 days ago)
 - [[instagram] default posts `like_count` to zero](https://github.com/mikf/gallery-dl/pull/5323) on [mikf/gallery-dl](https://github.com/mikf/gallery-dl) (2 years ago)
 - [[instagram] Don&#39;t check private status for *.../YOU/following*](https://github.com/mikf/gallery-dl/pull/5322) on [mikf/gallery-dl](https://github.com/mikf/gallery-dl) (2 years ago)
 
 #### ⭐ Recent Stars
 
-- [clawdbot/clawdbot](https://github.com/clawdbot/clawdbot) - Your own personal AI assistant. Any OS. Any Platform. (1 day ago)
-- [kaitranntt/ccs](https://github.com/kaitranntt/ccs) - Switch between Claude accounts, Gemini, Copilot, OpenRouter (300&#43; models) via CLIProxyAPI OAuth proxy. Visual dashboard, remote proxy support, WebSearch fallback. Zero-config to production-ready. (2 days ago)
+- [almostprohibited/backend](https://github.com/almostprohibited/backend) - Logic responsible for scraping retailers powering the backend API for almostprohibited.ca (1 day ago)
+- [clawdbot/clawdbot](https://github.com/clawdbot/clawdbot) - Your own personal AI assistant. Any OS. Any Platform. (2 days ago)
+- [kaitranntt/ccs](https://github.com/kaitranntt/ccs) - Switch between Claude accounts, Gemini, Copilot, OpenRouter (300&#43; models) via CLIProxyAPI OAuth proxy. Visual dashboard, remote proxy support, WebSearch fallback. Zero-config to production-ready. (3 days ago)
 - [Quill-OS/quill](https://github.com/Quill-OS/quill) - An open-source, Qt-based eBook reader for Kobos (and other devices). (1 week ago)
 - [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - A simple and easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services. (1 week ago)
-- [pomerium/pomerium](https://github.com/pomerium/pomerium) - Pomerium is an identity and context-aware access proxy. (1 week ago)
