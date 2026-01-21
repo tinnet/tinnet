@@ -15,7 +15,7 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
-- [brandonyoungdev/tldx](https://github.com/brandonyoungdev/tldx) - Domain Availability Research Tool (today)
+- [brandonyoungdev/tldx](https://github.com/brandonyoungdev/tldx) - Domain Availability Research Tool (1 day ago)
 - [almostprohibited/backend](https://github.com/almostprohibited/backend) - Logic responsible for scraping retailers powering the backend API for almostprohibited.ca (1 week ago)
 - [clawdbot/clawdbot](https://github.com/clawdbot/clawdbot) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  (1 week ago)
 - [kaitranntt/ccs](https://github.com/kaitranntt/ccs) - Switch between Claude accounts, Gemini, Copilot, OpenRouter (300&#43; models) via CLIProxyAPI OAuth proxy. Visual dashboard, remote proxy support, WebSearch fallback. Zero-config to production-ready. (1 week ago)
