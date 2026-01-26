@@ -15,8 +15,8 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
+- [glittercowboy/get-shit-done](https://github.com/glittercowboy/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code and OpenCode. (today)
 - [tomwrw/austere-theme-zola](https://github.com/tomwrw/austere-theme-zola) - austere - A minimal theme for Zola with a focus on writing. (5 days ago)
 - [isunjn/serene](https://github.com/isunjn/serene) - A minimal blog theme for Zola, well crafted (5 days ago)
 - [brandonyoungdev/tldx](https://github.com/brandonyoungdev/tldx) - Domain Availability Research Tool (6 days ago)
 - [almostprohibited/backend](https://github.com/almostprohibited/backend) - Logic responsible for scraping retailers powering the backend API for almostprohibited.ca (2 weeks ago)
-- [clawdbot/clawdbot](https://github.com/clawdbot/clawdbot) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  (2 weeks ago)
