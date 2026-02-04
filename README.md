@@ -15,8 +15,8 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
-- [gavrielc/nanoclaw](https://github.com/gavrielc/nanoclaw) - My personal Claude assistant that runs in Apple containers. Lightweight, secure, and built to be understood and customized for your own needs. (today)
-- [emerysilb/immibridge](https://github.com/emerysilb/immibridge) - Desktop app for copying and syncing an apple photo library to immich. (3 days ago)
+- [gavrielc/nanoclaw](https://github.com/gavrielc/nanoclaw) - My personal Claude assistant that runs in Apple containers. Lightweight, secure, and built to be understood and customized for your own needs. (1 day ago)
+- [emerysilb/immibridge](https://github.com/emerysilb/immibridge) - Desktop app for copying and syncing an apple photo library to immich. (4 days ago)
 - [glittercowboy/get-shit-done](https://github.com/glittercowboy/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code and OpenCode. (1 week ago)
-- [tomwrw/austere-theme-zola](https://github.com/tomwrw/austere-theme-zola) - austere - A minimal theme for Zola with a focus on writing. (1 week ago)
-- [isunjn/serene](https://github.com/isunjn/serene) - A minimal blog theme for Zola, well crafted (1 week ago)
+- [tomwrw/austere-theme-zola](https://github.com/tomwrw/austere-theme-zola) - austere - A minimal theme for Zola with a focus on writing. (2 weeks ago)
+- [isunjn/serene](https://github.com/isunjn/serene) - A minimal blog theme for Zola, well crafted (2 weeks ago)
