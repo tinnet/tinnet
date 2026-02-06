@@ -15,8 +15,8 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
+- [pydantic/monty](https://github.com/pydantic/monty) - A minimal, secure Python interpreter written in Rust for use by AI (today)
 - [bloomberg/memray](https://github.com/bloomberg/memray) - Memray is a memory profiler for Python (today)
 - [nrdxp/sukr](https://github.com/nrdxp/sukr) - Minimal static site compiler — suckless, Rust, zero JS. (1 day ago)
 - [gavrielc/nanoclaw](https://github.com/gavrielc/nanoclaw) - A lightweight alternative to Clawdbot / OpenClaw that runs in Apple containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic&#39;s Agents SDK (3 days ago)
 - [emerysilb/immibridge](https://github.com/emerysilb/immibridge) - Desktop app for copying and syncing an apple photo library to immich. (6 days ago)
-- [glittercowboy/get-shit-done](https://github.com/glittercowboy/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code and OpenCode. (1 week ago)
