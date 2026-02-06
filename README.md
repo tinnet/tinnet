@@ -8,15 +8,15 @@ Always looking to get better at the tools I know or learn about new ones and how
 #### 🔨 Latest Pull Requests I published
 
 - [feat: Add ty type checker and mise task automation](https://github.com/tinnet/trailing-stops/pull/3) on [tinnet/trailing-stops](https://github.com/tinnet/trailing-stops) (3 weeks ago)
-- [feat: Add entry price support for trailing stop-loss calculations](https://github.com/tinnet/trailing-stops/pull/2) on [tinnet/trailing-stops](https://github.com/tinnet/trailing-stops) (3 weeks ago)
-- [Add Claude Code GitHub Workflow](https://github.com/tinnet/trailing-stops/pull/1) on [tinnet/trailing-stops](https://github.com/tinnet/trailing-stops) (3 weeks ago)
+- [feat: Add entry price support for trailing stop-loss calculations](https://github.com/tinnet/trailing-stops/pull/2) on [tinnet/trailing-stops](https://github.com/tinnet/trailing-stops) (4 weeks ago)
+- [Add Claude Code GitHub Workflow](https://github.com/tinnet/trailing-stops/pull/1) on [tinnet/trailing-stops](https://github.com/tinnet/trailing-stops) (4 weeks ago)
 - [[instagram] default posts `like_count` to zero](https://github.com/mikf/gallery-dl/pull/5323) on [mikf/gallery-dl](https://github.com/mikf/gallery-dl) (2 years ago)
 - [[instagram] Don&#39;t check private status for *.../YOU/following*](https://github.com/mikf/gallery-dl/pull/5322) on [mikf/gallery-dl](https://github.com/mikf/gallery-dl) (2 years ago)
 
 #### ⭐ Recent Stars
 
-- [gavrielc/nanoclaw](https://github.com/gavrielc/nanoclaw) - My personal Claude assistant that runs in Apple containers. Lightweight, secure, and built to be understood and customized for your own needs. (2 days ago)
-- [emerysilb/immibridge](https://github.com/emerysilb/immibridge) - Desktop app for copying and syncing an apple photo library to immich. (5 days ago)
+- [nrdxp/sukr](https://github.com/nrdxp/sukr) - Minimal static site compiler — suckless, Rust, zero JS. (1 day ago)
+- [gavrielc/nanoclaw](https://github.com/gavrielc/nanoclaw) - My personal Claude assistant that runs in Apple containers. Lightweight, secure, and built to be understood and customized for your own needs. (3 days ago)
+- [emerysilb/immibridge](https://github.com/emerysilb/immibridge) - Desktop app for copying and syncing an apple photo library to immich. (6 days ago)
 - [glittercowboy/get-shit-done](https://github.com/glittercowboy/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code and OpenCode. (1 week ago)
 - [tomwrw/austere-theme-zola](https://github.com/tomwrw/austere-theme-zola) - austere - A minimal theme for Zola with a focus on writing. (2 weeks ago)
-- [isunjn/serene](https://github.com/isunjn/serene) - A minimal blog theme for Zola, well crafted (2 weeks ago)
