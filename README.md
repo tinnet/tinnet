@@ -15,8 +15,8 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
+- [bloomberg/memray](https://github.com/bloomberg/memray) - Memray is a memory profiler for Python (today)
 - [nrdxp/sukr](https://github.com/nrdxp/sukr) - Minimal static site compiler — suckless, Rust, zero JS. (1 day ago)
 - [gavrielc/nanoclaw](https://github.com/gavrielc/nanoclaw) - My personal Claude assistant that runs in Apple containers. Lightweight, secure, and built to be understood and customized for your own needs. (3 days ago)
 - [emerysilb/immibridge](https://github.com/emerysilb/immibridge) - Desktop app for copying and syncing an apple photo library to immich. (6 days ago)
 - [glittercowboy/get-shit-done](https://github.com/glittercowboy/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code and OpenCode. (1 week ago)
-- [tomwrw/austere-theme-zola](https://github.com/tomwrw/austere-theme-zola) - austere - A minimal theme for Zola with a focus on writing. (2 weeks ago)
