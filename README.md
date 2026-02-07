@@ -7,7 +7,7 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### 🔨 Latest Pull Requests I published
 
-- [feat: Add ty type checker and mise task automation](https://github.com/tinnet/trailing-stops/pull/3) on [tinnet/trailing-stops](https://github.com/tinnet/trailing-stops) (3 weeks ago)
+- [feat: Add ty type checker and mise task automation](https://github.com/tinnet/trailing-stops/pull/3) on [tinnet/trailing-stops](https://github.com/tinnet/trailing-stops) (4 weeks ago)
 - [feat: Add entry price support for trailing stop-loss calculations](https://github.com/tinnet/trailing-stops/pull/2) on [tinnet/trailing-stops](https://github.com/tinnet/trailing-stops) (4 weeks ago)
 - [Add Claude Code GitHub Workflow](https://github.com/tinnet/trailing-stops/pull/1) on [tinnet/trailing-stops](https://github.com/tinnet/trailing-stops) (4 weeks ago)
 - [[instagram] default posts `like_count` to zero](https://github.com/mikf/gallery-dl/pull/5323) on [mikf/gallery-dl](https://github.com/mikf/gallery-dl) (2 years ago)
@@ -15,8 +15,8 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
-- [pydantic/monty](https://github.com/pydantic/monty) - A minimal, secure Python interpreter written in Rust for use by AI (today)
-- [bloomberg/memray](https://github.com/bloomberg/memray) - Memray is a memory profiler for Python (today)
-- [nrdxp/sukr](https://github.com/nrdxp/sukr) - Minimal static site compiler — suckless, Rust, zero JS. (1 day ago)
-- [gavrielc/nanoclaw](https://github.com/gavrielc/nanoclaw) - A lightweight alternative to Clawdbot / OpenClaw that runs in Apple containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic&#39;s Agents SDK (3 days ago)
-- [emerysilb/immibridge](https://github.com/emerysilb/immibridge) - Desktop app for copying and syncing an apple photo library to immich. (6 days ago)
+- [pydantic/monty](https://github.com/pydantic/monty) - A minimal, secure Python interpreter written in Rust for use by AI (1 day ago)
+- [bloomberg/memray](https://github.com/bloomberg/memray) - Memray is a memory profiler for Python (1 day ago)
+- [nrdxp/sukr](https://github.com/nrdxp/sukr) - Minimal static site compiler — suckless, Rust, zero JS. (2 days ago)
+- [gavrielc/nanoclaw](https://github.com/gavrielc/nanoclaw) - A lightweight alternative to Clawdbot / OpenClaw that runs in Apple containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic&#39;s Agents SDK (4 days ago)
+- [emerysilb/immibridge](https://github.com/emerysilb/immibridge) - Desktop app for copying and syncing an apple photo library to immich. (1 week ago)
