@@ -15,8 +15,8 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
+- [django/deps](https://github.com/django/deps) - Django Enhancement Proposals (today)
+- [earendil-works/gondolin](https://github.com/earendil-works/gondolin) - Experimental Linux microvm setup with a TypeScript Control Plane as Agent Sandbox (today)
 - [juftin/homelab](https://github.com/juftin/homelab) - 🤖 homelab deployment via docker compose (made easy) (2 days ago)
 - [stravu/crystal](https://github.com/stravu/crystal) - Run multiple Codex and Claude Code AI sessions in parallel git worktrees. Test, compare approaches &amp; manage AI-assisted development workflows in one desktop app. (5 days ago)
 - [pydantic/monty](https://github.com/pydantic/monty) - A minimal, secure Python interpreter written in Rust for use by AI (1 week ago)
-- [bloomberg/memray](https://github.com/bloomberg/memray) - Memray is a memory profiler for Python (1 week ago)
-- [nrdxp/sukr](https://github.com/nrdxp/sukr) - Minimal static site compiler — suckless, Rust, zero JS. (1 week ago)
