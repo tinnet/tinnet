@@ -15,8 +15,8 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
-- [juftin/homelab](https://github.com/juftin/homelab) - 🤖 homelab deployment via docker compose (made easy) (1 day ago)
-- [stravu/crystal](https://github.com/stravu/crystal) - Run multiple Codex and Claude Code AI sessions in parallel git worktrees. Test, compare approaches &amp; manage AI-assisted development workflows in one desktop app. (4 days ago)
+- [juftin/homelab](https://github.com/juftin/homelab) - 🤖 homelab deployment via docker compose (made easy) (2 days ago)
+- [stravu/crystal](https://github.com/stravu/crystal) - Run multiple Codex and Claude Code AI sessions in parallel git worktrees. Test, compare approaches &amp; manage AI-assisted development workflows in one desktop app. (5 days ago)
 - [pydantic/monty](https://github.com/pydantic/monty) - A minimal, secure Python interpreter written in Rust for use by AI (1 week ago)
 - [bloomberg/memray](https://github.com/bloomberg/memray) - Memray is a memory profiler for Python (1 week ago)
 - [nrdxp/sukr](https://github.com/nrdxp/sukr) - Minimal static site compiler — suckless, Rust, zero JS. (1 week ago)
