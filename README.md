@@ -15,7 +15,7 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
-- [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian (today)
+- [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI. (today)
 - [django/deps](https://github.com/django/deps) - Django Enhancement Proposals (2 days ago)
 - [earendil-works/gondolin](https://github.com/earendil-works/gondolin) - Experimental Linux microvm setup with a TypeScript Control Plane as Agent Sandbox (2 days ago)
 - [juftin/homelab](https://github.com/juftin/homelab) - 🤖 homelab deployment via docker compose (made easy) (4 days ago)
