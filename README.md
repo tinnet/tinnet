@@ -15,8 +15,8 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
-- [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI. (1 day ago)
-- [django/deps](https://github.com/django/deps) - Django Enhancement Proposals (3 days ago)
-- [earendil-works/gondolin](https://github.com/earendil-works/gondolin) - Experimental Linux microvm setup with a TypeScript Control Plane as Agent Sandbox (3 days ago)
-- [juftin/homelab](https://github.com/juftin/homelab) - 🤖 homelab deployment via docker compose (made easy) (5 days ago)
-- [stravu/crystal](https://github.com/stravu/crystal) - Run multiple Codex and Claude Code AI sessions in parallel git worktrees. Test, compare approaches &amp; manage AI-assisted development workflows in one desktop app. (1 week ago)
+- [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew) - A 5-20x faster experimental Homebrew alternative (today)
+- [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI. (2 days ago)
+- [django/deps](https://github.com/django/deps) - Django Enhancement Proposals (4 days ago)
+- [earendil-works/gondolin](https://github.com/earendil-works/gondolin) - Experimental Linux microvm setup with a TypeScript Control Plane as Agent Sandbox (4 days ago)
+- [juftin/homelab](https://github.com/juftin/homelab) - 🤖 homelab deployment via docker compose (made easy) (6 days ago)
