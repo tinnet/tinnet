@@ -7,11 +7,11 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### 🔨 Latest Pull Requests I published
 
+- [build: replace lefthook with jdx hk for git hooks](https://github.com/tinnet/java-native-cli-template/pull/14) on [tinnet/java-native-cli-template](https://github.com/tinnet/java-native-cli-template) (today)
 - [feat: Add ty type checker and mise task automation](https://github.com/tinnet/trailing-stops/pull/3) on [tinnet/trailing-stops](https://github.com/tinnet/trailing-stops) (1 month ago)
 - [feat: Add entry price support for trailing stop-loss calculations](https://github.com/tinnet/trailing-stops/pull/2) on [tinnet/trailing-stops](https://github.com/tinnet/trailing-stops) (1 month ago)
 - [Add Claude Code GitHub Workflow](https://github.com/tinnet/trailing-stops/pull/1) on [tinnet/trailing-stops](https://github.com/tinnet/trailing-stops) (1 month ago)
 - [[instagram] default posts `like_count` to zero](https://github.com/mikf/gallery-dl/pull/5323) on [mikf/gallery-dl](https://github.com/mikf/gallery-dl) (2 years ago)
-- [[instagram] Don&#39;t check private status for *.../YOU/following*](https://github.com/mikf/gallery-dl/pull/5322) on [mikf/gallery-dl](https://github.com/mikf/gallery-dl) (2 years ago)
 
 #### ⭐ Recent Stars
 
