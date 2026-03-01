@@ -15,8 +15,8 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
-- [aarondfrancis/counselors](https://github.com/aarondfrancis/counselors) - Fan out prompts to multiple AI coding agents in parallel (2 days ago)
-- [yassi/dj-control-room](https://github.com/yassi/dj-control-room) - The control room for your Django app (3 days ago)
-- [boyter/cs](https://github.com/boyter/cs) - codespelunker - CLI code search tool that understands code structure and ranks results by relevance. No indexing required (5 days ago)
+- [aarondfrancis/counselors](https://github.com/aarondfrancis/counselors) - Fan out prompts to multiple AI coding agents in parallel (3 days ago)
+- [yassi/dj-control-room](https://github.com/yassi/dj-control-room) - The control room for your Django app (4 days ago)
+- [boyter/cs](https://github.com/boyter/cs) - codespelunker - CLI code search tool that understands code structure and ranks results by relevance. No indexing required (6 days ago)
 - [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew) - A 5-20x faster experimental Homebrew alternative (1 week ago)
 - [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI. (1 week ago)
