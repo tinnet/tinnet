@@ -7,7 +7,7 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### 🔨 Latest Pull Requests I published
 
-- [build: replace lefthook with jdx hk for git hooks](https://github.com/tinnet/java-native-cli-template/pull/14) on [tinnet/java-native-cli-template](https://github.com/tinnet/java-native-cli-template) (today)
+- [build: replace lefthook with jdx hk for git hooks](https://github.com/tinnet/java-native-cli-template/pull/14) on [tinnet/java-native-cli-template](https://github.com/tinnet/java-native-cli-template) (1 day ago)
 - [feat: Add ty type checker and mise task automation](https://github.com/tinnet/trailing-stops/pull/3) on [tinnet/trailing-stops](https://github.com/tinnet/trailing-stops) (1 month ago)
 - [feat: Add entry price support for trailing stop-loss calculations](https://github.com/tinnet/trailing-stops/pull/2) on [tinnet/trailing-stops](https://github.com/tinnet/trailing-stops) (1 month ago)
 - [Add Claude Code GitHub Workflow](https://github.com/tinnet/trailing-stops/pull/1) on [tinnet/trailing-stops](https://github.com/tinnet/trailing-stops) (1 month ago)
@@ -15,8 +15,8 @@ Always looking to get better at the tools I know or learn about new ones and how
 
 #### ⭐ Recent Stars
 
-- [aarondfrancis/counselors](https://github.com/aarondfrancis/counselors) - Fan out prompts to multiple AI coding agents in parallel (3 days ago)
-- [yassi/dj-control-room](https://github.com/yassi/dj-control-room) - The control room for your Django app (4 days ago)
-- [boyter/cs](https://github.com/boyter/cs) - codespelunker - CLI code search tool that understands code structure and ranks results by relevance. No indexing required (6 days ago)
+- [aarondfrancis/counselors](https://github.com/aarondfrancis/counselors) - Fan out prompts to multiple AI coding agents in parallel (4 days ago)
+- [yassi/dj-control-room](https://github.com/yassi/dj-control-room) - The control room for your Django app (5 days ago)
+- [boyter/cs](https://github.com/boyter/cs) - codespelunker - CLI code search tool that understands code structure and ranks results by relevance. No indexing required (1 week ago)
 - [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew) - A 5-20x faster experimental Homebrew alternative (1 week ago)
 - [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI. (1 week ago)
